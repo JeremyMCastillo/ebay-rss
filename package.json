@@ -1,6 +1,6 @@
 {
   "name": "ebay-rss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parses eBay listings from their RSS search feed.",
   "main": "index.js",
   "directories": {
