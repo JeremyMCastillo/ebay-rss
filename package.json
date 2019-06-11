@@ -3,15 +3,16 @@
   "version": "1.0.2",
   "description": "Parses eBay listings from their RSS search feed.",
   "main": "index.js",
+  "homepage": "https://github.com/JeremyMCastillo/ebay-rss",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha && npm run lint"
   },
   "repository": {
     "type": "git",
-    "url": "github.com:JeremyMCastillo/ebay-rss.git"
+    "url": "git@github.com:JeremyMCastillo/ebay-rss.git"
   },
   "keywords": [
     "ebay",
@@ -21,7 +22,7 @@
     "xml",
     "search"
   ],
-  "author": "JeremyMCastillo <jeremy@jeremycastillo.net> (http://www.jeremycastillo.net)",
+  "author": "Jeremy Castillo <jeremy@jeremycastillo.net> (http://www.jeremycastillo.net)",
   "license": "MIT",
   "dependencies": {
     "rss-parser": "^3.7.1"
