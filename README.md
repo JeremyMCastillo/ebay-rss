@@ -53,4 +53,4 @@ Willing to share your idea or ready to contribute, check [here](https://github.c
 
 ## License
 
-(https://github.com/JeremyMCastillo/ebay-rss/blob/master/LICENSE)[MIT]
+[MIT](https://github.com/JeremyMCastillo/ebay-rss/blob/master/LICENSE)
