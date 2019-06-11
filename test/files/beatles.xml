@@ -1,0 +1,1280 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:rx="urn:ebay:apis:eBLBaseComponents" xmlns:g="http://base.google.com/ns/1.0" xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005">
+<!--
+About this feed
+===============
+
+This page is an RSS feed that provides the listings that satisfy the query you entered.
+Once you have subscribed to this feed, you will receive automatic updates any time a new listing appears in this store.
+To learn more about feeds, copy and paste the below link in your browser
+
+http://pages.ebay.com/help/welcome/contextual/rss.html
+
+How to subscribe to this feed
+=============================
+
+You will need an RSS reader. To subscribe copy and Paste the URL of this page into your reader, and follow the instructions provided for that reader.
+-->
+<channel>
+<title><![CDATA[the beatles]]></title>
+<cf:treatAs xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005">list</cf:treatAs>
+<link><![CDATA[https://www.ebay.com/sch/Records/176985/i.html?_nkw=the+beatles]]></link>
+<description><![CDATA[the beatles]]></description>
+<language>en</language>
+<ttl>60</ttl>
+<image>
+<url><![CDATA[http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif]]></url>
+<link><![CDATA[https://www.ebay.com/sch/Records/176985/i.html?_nkw=the+beatles]]></link>
+<title><![CDATA[the beatles]]></title>
+</image>
+<cf:listinfo xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005">
+<cf:sort default="no" data-type="number" element="BuyItNowPrice" label="Buy It Now price" ns="urn:ebay:apis:eBLBaseComponents"/>
+<cf:sort default="no" data-type="number" element="CurrentPrice" label="Current auction price" ns="urn:ebay:apis:eBLBaseComponents"/>
+<cf:sort default="no" data-type="number" element="EndTime" label="EndTime" ns="urn:ebay:apis:eBLBaseComponents"/>
+<cf:sort default="no" data-type="number" element="BidCount" label="Number of bids" ns="urn:ebay:apis:eBLBaseComponents"/>
+<cf:group element="AuctionType" label="listing format" ns="urn:ebay:apis:eBLBaseComponents"/>
+<cf:group element="ItemCharacteristic" label="option" ns="urn:ebay:apis:eBLBaseComponents"/>
+<cf:group element="Category" label="listing category" ns="urn:ebay:apis:eBLBaseComponents"/>
+</cf:listinfo>
+<item>
+<title><![CDATA[The Beatles lp record LET IT BE Capitol 1988 "Manufactured.." label]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-lp-record-LET-IT-BE-Capitol-1988-Manufactured-label/323823336944?hash=item4b655ffdf0:g:TnkAAOSwRaRc8xBs]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-lp-record-LET-IT-BE-Capitol-1988-Manufactured-label/323823336944?hash=item4b655ffdf0:g:TnkAAOSwRaRc8xBs"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/TnkAAOSwRaRc8xBs/s-l225.jpg"></a></td><td><div><span><strong>$3.25</strong></span> (4 Bids)</div><div>End Date: <span>Jun-11 17:09</span></div><a href="https://www.ebay.com/itm/The-Beatles-lp-record-LET-IT-BE-Capitol-1988-Manufactured-label/323823336944?hash=item4b655ffdf0:g:TnkAAOSwRaRc8xBs">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323823336944&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-lp-record-LET-IT-BE-Capitol-1988-Manufactured-label/323823336944?hash=item4b655ffdf0:g:TnkAAOSwRaRc8xBs]]></guid>
+<pubDate>Sat, 01 Jun 2019 17:09:47 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">325</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560298187000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES SECOND ALBUM CAPITOL RECORDS VINYL LP MADE IN CANADA]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-CAPITOL-RECORDS-VINYL-LP-MADE-IN-CANADA/123792689387?hash=item1cd29e88eb:g:UhUAAOSwUTdc9A~0]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-CAPITOL-RECORDS-VINYL-LP-MADE-IN-CANADA/123792689387?hash=item1cd29e88eb:g:UhUAAOSwUTdc9A~0"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/UhUAAOSwUTdc9A~0/s-l225.jpg"></a></td><td><div><span><strong>$4.25</strong></span> (4 Bids)</div><div>End Date: <span>Jun-11 17:03</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-CAPITOL-RECORDS-VINYL-LP-MADE-IN-CANADA/123792689387?hash=item1cd29e88eb:g:UhUAAOSwUTdc9A~0">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=123792689387&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-CAPITOL-RECORDS-VINYL-LP-MADE-IN-CANADA/123792689387?hash=item1cd29e88eb:g:UhUAAOSwUTdc9A~0]]></guid>
+<pubDate>Tue, 04 Jun 2019 17:03:33 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">425</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560297813000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Rubber Soul CR 1965 UK LP Vinyl Nice PCS 3075  1976]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Rubber-Soul-CR-1965-UK-LP-Vinyl-Nice-PCS-3075-1976/273885512384?hash=item3fc4d942c0:g:x~AAAOSwqj1c5bty]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Rubber-Soul-CR-1965-UK-LP-Vinyl-Nice-PCS-3075-1976/273885512384?hash=item3fc4d942c0:g:x~AAAOSwqj1c5bty"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/x~AAAOSwqj1c5bty/s-l225.jpg"></a></td><td><div><span><strong>$30.00</strong></span></div><div>End Date: <span>Jul-11 16:06</span></div><div>Buy It Now for only: US $30.00</div><a href="https://www.ebay.com/itm/The-Beatles-Rubber-Soul-CR-1965-UK-LP-Vinyl-Nice-PCS-3075-1976/273885512384?hash=item3fc4d942c0:g:x~AAAOSwqj1c5bty">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=273885512384&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Rubber-Soul-CR-1965-UK-LP-Vinyl-Nice-PCS-3075-1976/273885512384?hash=item3fc4d942c0:g:x~AAAOSwqj1c5bty]]></guid>
+<pubDate>Tue, 11 Jun 2019 16:06:59 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">3000</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">3000</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562886419000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles LP Record Revolver Capitol ST2576 VG+]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-LP-Record-Revolver-Capitol-ST2576-VG/223548756315?hash=item340c8b515b:g:nFMAAOSwJJZdADmF]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-LP-Record-Revolver-Capitol-ST2576-VG/223548756315?hash=item340c8b515b:g:nFMAAOSwJJZdADmF"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/nFMAAOSwJJZdADmF/s-l225.jpg"></a></td><td><div><span><strong>$14.99</strong></span></div><div>End Date: <span>Jul-11 16:31</span></div><div>Buy It Now for only: US $14.99</div><a href="https://www.ebay.com/itm/The-Beatles-LP-Record-Revolver-Capitol-ST2576-VG/223548756315?hash=item340c8b515b:g:nFMAAOSwJJZdADmF">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223548756315&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-LP-Record-Revolver-Capitol-ST2576-VG/223548756315?hash=item340c8b515b:g:nFMAAOSwJJZdADmF]]></guid>
+<pubDate>Tue, 11 Jun 2019 16:31:44 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1499</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1499</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562887904000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles lp record A HARD DAY'S NIGHT Capitol 1983 colorband]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-lp-record-A-HARD-DAYS-NIGHT-Capitol-1983-colorband/323823344862?hash=item4b65601cde:g:efoAAOSwUgxc8xRD]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-lp-record-A-HARD-DAYS-NIGHT-Capitol-1983-colorband/323823344862?hash=item4b65601cde:g:efoAAOSwUgxc8xRD"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/efoAAOSwUgxc8xRD/s-l225.jpg"></a></td><td><div><span><strong>$21.50</strong></span> (13 Bids)</div><div>End Date: <span>Jun-11 17:26</span></div><a href="https://www.ebay.com/itm/The-Beatles-lp-record-A-HARD-DAYS-NIGHT-Capitol-1983-colorband/323823344862?hash=item4b65601cde:g:efoAAOSwUgxc8xRD">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323823344862&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-lp-record-A-HARD-DAYS-NIGHT-Capitol-1983-colorband/323823344862?hash=item4b65601cde:g:efoAAOSwUgxc8xRD]]></guid>
+<pubDate>Sat, 01 Jun 2019 17:26:52 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2150</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560299212000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">13</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles - Sgt Pepper's Lonely Hearts Club Band (2017 Stereo Mix) [New Vinyl]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-2017-Stereo-Mix-New-Vinyl/362173786340?hash=item54533d68e4:g:KwMAAOSwGBhaXQ9B]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-2017-Stereo-Mix-New-Vinyl/362173786340?hash=item54533d68e4:g:KwMAAOSwGBhaXQ9B"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/KwMAAOSwGBhaXQ9B/s-l225.jpg"></a></td><td><div><span><strong>$22.98</strong></span></div><div>End Date: <span>Jun-23 18:32</span></div><div>Buy It Now for only: US $22.98</div><a href="https://www.ebay.com/itm/The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-2017-Stereo-Mix-New-Vinyl/362173786340?hash=item54533d68e4:g:KwMAAOSwGBhaXQ9B">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=362173786340&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-2017-Stereo-Mix-New-Vinyl/362173786340?hash=item54533d68e4:g:KwMAAOSwGBhaXQ9B]]></guid>
+<pubDate>Thu, 30 Nov 2017 18:32:23 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2298</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2298</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561339943000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles SEALED lp record MAGICAL MYSTERY TOUR, Capitol no bar code]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-MAGICAL-MYSTERY-TOUR-Capitol-no-bar-code/223537860818?hash=item340be510d2:g:dD8AAOSwAs9c8xhg]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-MAGICAL-MYSTERY-TOUR-Capitol-no-bar-code/223537860818?hash=item340be510d2:g:dD8AAOSwAs9c8xhg"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/dD8AAOSwAs9c8xhg/s-l225.jpg"></a></td><td><div><span><strong>$52.00</strong></span> (22 Bids)</div><div>End Date: <span>Jun-11 17:37</span></div><a href="https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-MAGICAL-MYSTERY-TOUR-Capitol-no-bar-code/223537860818?hash=item340be510d2:g:dD8AAOSwAs9c8xhg">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223537860818&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-MAGICAL-MYSTERY-TOUR-Capitol-no-bar-code/223537860818?hash=item340be510d2:g:dD8AAOSwAs9c8xhg]]></guid>
+<pubDate>Sat, 01 Jun 2019 17:37:03 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">5200</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560299823000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">22</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES REVOLVER LP US CAPITOL ORIGINAL VINYL 1966]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-REVOLVER-LP-US-CAPITOL-ORIGINAL-VINYL-1966/223548754819?hash=item340c8b4b83:g:1CkAAOSwjjddADjK]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-REVOLVER-LP-US-CAPITOL-ORIGINAL-VINYL-1966/223548754819?hash=item340c8b4b83:g:1CkAAOSwjjddADjK"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/1CkAAOSwjjddADjK/s-l225.jpg"></a></td><td><div><span><strong>$17.99</strong></span></div><div>End Date: <span>Jul-11 16:28</span></div><div>Buy It Now for only: US $17.99</div><a href="https://www.ebay.com/itm/THE-BEATLES-REVOLVER-LP-US-CAPITOL-ORIGINAL-VINYL-1966/223548754819?hash=item340c8b4b83:g:1CkAAOSwjjddADjK">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223548754819&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-REVOLVER-LP-US-CAPITOL-ORIGINAL-VINYL-1966/223548754819?hash=item340c8b4b83:g:1CkAAOSwjjddADjK]]></guid>
+<pubDate>Tue, 11 Jun 2019 16:28:14 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1799</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1799</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562887694000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[LP-Record-Album-The Beatles --- Yesterday and Today w/ rare inner sleeve.]]></title>
+<link><![CDATA[https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Yesterday-and-Today-w-rare-inner-sleeve/183843075508?hash=item2acde6b5b4:g:4zUAAOSwtCJc~p0k]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Yesterday-and-Today-w-rare-inner-sleeve/183843075508?hash=item2acde6b5b4:g:4zUAAOSwtCJc~p0k"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/4zUAAOSwtCJc~p0k/s-l225.jpg"></a></td><td><div><span><strong>$6.00</strong></span> (1 Bids)</div><div>End Date: <span>Jun-17 11:13</span></div><a href="https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Yesterday-and-Today-w-rare-inner-sleeve/183843075508?hash=item2acde6b5b4:g:4zUAAOSwtCJc~p0k">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=183843075508&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Yesterday-and-Today-w-rare-inner-sleeve/183843075508?hash=item2acde6b5b4:g:4zUAAOSwtCJc~p0k]]></guid>
+<pubDate>Mon, 10 Jun 2019 11:13:36 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">600</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560795216000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles - Let It Be [New Vinyl] 180 Gram, Rmst, Reissue]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Let-It-Be-New-Vinyl-180-Gram-Rmst-Reissue/361313651910?hash=item541ff8ccc6:g:ypgAAOSwpkFY7CaJ]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Let-It-Be-New-Vinyl-180-Gram-Rmst-Reissue/361313651910?hash=item541ff8ccc6:g:ypgAAOSwpkFY7CaJ"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/ypgAAOSwpkFY7CaJ/s-l225.jpg"></a></td><td><div><span><strong>$20.98</strong></span></div><div>End Date: <span>Jun-14 10:42</span></div><div>Buy It Now for only: US $20.98</div><a href="https://www.ebay.com/itm/The-Beatles-Let-It-Be-New-Vinyl-180-Gram-Rmst-Reissue/361313651910?hash=item541ff8ccc6:g:ypgAAOSwpkFY7CaJ">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=361313651910&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Let-It-Be-New-Vinyl-180-Gram-Rmst-Reissue/361313651910?hash=item541ff8ccc6:g:ypgAAOSwpkFY7CaJ]]></guid>
+<pubDate>Fri, 05 Jun 2015 10:42:56 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2098</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2098</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560534176000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[LP-Record-Album-The Beatles --- Abbey Road]]></title>
+<link><![CDATA[https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Abbey-Road/362673987600?hash=item54710de010:g:nAUAAOSwe8lc~pyl]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Abbey-Road/362673987600?hash=item54710de010:g:nAUAAOSwe8lc~pyl"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/nAUAAOSwe8lc~pyl/s-l225.jpg"></a></td><td><div><span><strong>$5.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 11:10</span></div><a href="https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Abbey-Road/362673987600?hash=item54710de010:g:nAUAAOSwe8lc~pyl">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=362673987600&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Abbey-Road/362673987600?hash=item54710de010:g:nAUAAOSwe8lc~pyl]]></guid>
+<pubDate>Mon, 10 Jun 2019 11:10:05 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">500</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560795005000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[the beatles yesterday and today Lp Riaa 3 1966 Pressing Original Sleeve]]></title>
+<link><![CDATA[https://www.ebay.com/itm/the-beatles-yesterday-and-today-Lp-Riaa-3-1966-Pressing-Original-Sleeve/283512791219?hash=item4202ade0b3:g:bscAAOSwIipc~wHg]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/the-beatles-yesterday-and-today-Lp-Riaa-3-1966-Pressing-Original-Sleeve/283512791219?hash=item4202ade0b3:g:bscAAOSwIipc~wHg"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/bscAAOSwIipc~wHg/s-l225.jpg"></a></td><td><div><span><strong>$59.99</strong></span></div><div>End Date: <span>Jul-10 18:22</span></div><div>Buy It Now for only: US $59.99</div><a href="https://www.ebay.com/itm/the-beatles-yesterday-and-today-Lp-Riaa-3-1966-Pressing-Original-Sleeve/283512791219?hash=item4202ade0b3:g:bscAAOSwIipc~wHg">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=283512791219&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/the-beatles-yesterday-and-today-Lp-Riaa-3-1966-Pressing-Original-Sleeve/283512791219?hash=item4202ade0b3:g:bscAAOSwIipc~wHg]]></guid>
+<pubDate>Mon, 10 Jun 2019 18:22:23 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">5999</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">5999</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562808143000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles-Twist & Shout/There's A Place-Pink Vinyl 45 w/Paper Cover]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Twist-Shout-Theres-A-Place-Pink-Vinyl-45-w-Paper-Cover/143289776669?hash=item215cbc7a1d:g:1hAAAOSwuIRc~q4L]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Twist-Shout-Theres-A-Place-Pink-Vinyl-45-w-Paper-Cover/143289776669?hash=item215cbc7a1d:g:1hAAAOSwuIRc~q4L"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/1hAAAOSwuIRc~q4L/s-l225.jpg"></a></td><td><div><span><strong>$7.99</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 18:06</span></div><a href="https://www.ebay.com/itm/The-Beatles-Twist-Shout-Theres-A-Place-Pink-Vinyl-45-w-Paper-Cover/143289776669?hash=item215cbc7a1d:g:1hAAAOSwuIRc~q4L">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=143289776669&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Twist-Shout-Theres-A-Place-Pink-Vinyl-45-w-Paper-Cover/143289776669?hash=item215cbc7a1d:g:1hAAAOSwuIRc~q4L]]></guid>
+<pubDate>Mon, 10 Jun 2019 18:06:02 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">799</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560819962000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES SECOND ALBUM CAPITOL ST 2080 RAINBOW 1983 REISSUE  IN SHRINK NM]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-CAPITOL-ST-2080-RAINBOW-1983-REISSUE-IN-SHRINK-NM/223548435930?hash=item340c866dda:g:70MAAOSwEXhc~7Qj]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-CAPITOL-ST-2080-RAINBOW-1983-REISSUE-IN-SHRINK-NM/223548435930?hash=item340c866dda:g:70MAAOSwEXhc~7Qj"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/70MAAOSwEXhc~7Qj/s-l225.jpg"></a></td><td><div><span><strong>$15.00</strong></span></div><div>End Date: <span>Jul-11 08:28</span></div><div>Buy It Now for only: US $15.00</div><a href="https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-CAPITOL-ST-2080-RAINBOW-1983-REISSUE-IN-SHRINK-NM/223548435930?hash=item340c866dda:g:70MAAOSwEXhc~7Qj">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223548435930&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-CAPITOL-ST-2080-RAINBOW-1983-REISSUE-IN-SHRINK-NM/223548435930?hash=item340c866dda:g:70MAAOSwEXhc~7Qj]]></guid>
+<pubDate>Tue, 11 Jun 2019 08:28:18 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1500</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1500</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562858898000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles 45 record sleeve HELP! Capitol 1965, picture sleeve only]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-45-record-sleeve-HELP-Capitol-1965-picture-sleeve-only/223547540505?hash=item340c78c419:g:l5AAAOSw8n5c~qi4]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-45-record-sleeve-HELP-Capitol-1965-picture-sleeve-only/223547540505?hash=item340c78c419:g:l5AAAOSw8n5c~qi4"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/l5AAAOSw8n5c~qi4/s-l225.jpg"></a></td><td><div><span><strong>$1.26</strong></span> (3 Bids)</div><div>End Date: <span>Jun-17 12:03</span></div><a href="https://www.ebay.com/itm/The-Beatles-45-record-sleeve-HELP-Capitol-1965-picture-sleeve-only/223547540505?hash=item340c78c419:g:l5AAAOSw8n5c~qi4">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223547540505&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-45-record-sleeve-HELP-Capitol-1965-picture-sleeve-only/223547540505?hash=item340c78c419:g:l5AAAOSw8n5c~qi4]]></guid>
+<pubDate>Mon, 10 Jun 2019 12:03:35 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">126</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560798215000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">3</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Lot MEET THE BEATLES vinyl LP assorted Magical Mystery Tour Alpha Omega smal2835]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Lot-MEET-THE-BEATLES-vinyl-LP-assorted-Magical-Mystery-Tour-Alpha-Omega-smal2835/202704624408?hash=item2f32231b18:g:u58AAOSwJylc1lhQ]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Lot-MEET-THE-BEATLES-vinyl-LP-assorted-Magical-Mystery-Tour-Alpha-Omega-smal2835/202704624408?hash=item2f32231b18:g:u58AAOSwJylc1lhQ"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/u58AAOSwJylc1lhQ/s-l225.jpg"></a></td><td><div><span><strong>$12.00</strong></span></div><div>End Date: <span>Jul-11 09:12</span></div><div>Buy It Now for only: US $12.00</div><a href="https://www.ebay.com/itm/Lot-MEET-THE-BEATLES-vinyl-LP-assorted-Magical-Mystery-Tour-Alpha-Omega-smal2835/202704624408?hash=item2f32231b18:g:u58AAOSwJylc1lhQ">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=202704624408&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Lot-MEET-THE-BEATLES-vinyl-LP-assorted-Magical-Mystery-Tour-Alpha-Omega-smal2835/202704624408?hash=item2f32231b18:g:u58AAOSwJylc1lhQ]]></guid>
+<pubDate>Tue, 11 Jun 2019 09:12:01 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1200</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1200</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562861521000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles 45 record PAPERBACK WRITER Capitol 1966 Picture Sleeve]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-45-record-PAPERBACK-WRITER-Capitol-1966-Picture-Sleeve/323831010526?hash=item4b65d514de:g:x98AAOSwU6Rc~qJc]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-45-record-PAPERBACK-WRITER-Capitol-1966-Picture-Sleeve/323831010526?hash=item4b65d514de:g:x98AAOSwU6Rc~qJc"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/x98AAOSwU6Rc~qJc/s-l225.jpg"></a></td><td><div><span><strong>$1.56</strong></span> (4 Bids)</div><div>End Date: <span>Jun-17 11:36</span></div><a href="https://www.ebay.com/itm/The-Beatles-45-record-PAPERBACK-WRITER-Capitol-1966-Picture-Sleeve/323831010526?hash=item4b65d514de:g:x98AAOSwU6Rc~qJc">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323831010526&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-45-record-PAPERBACK-WRITER-Capitol-1966-Picture-Sleeve/323831010526?hash=item4b65d514de:g:x98AAOSwU6Rc~qJc]]></guid>
+<pubDate>Mon, 10 Jun 2019 11:36:08 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">156</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560796568000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles SEALED lp record REVOLVER, Capitol no bar code]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-REVOLVER-Capitol-no-bar-code/223545409380?hash=item340c583f64:g:6sEAAOSw0h1c~A6Z]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-REVOLVER-Capitol-no-bar-code/223545409380?hash=item340c583f64:g:6sEAAOSw0h1c~A6Z"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/6sEAAOSw0h1c~A6Z/s-l225.jpg"></a></td><td><div><span><strong>$21.50</strong></span> (19 Bids)</div><div>End Date: <span>Jun-15 12:41</span></div><a href="https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-REVOLVER-Capitol-no-bar-code/223545409380?hash=item340c583f64:g:6sEAAOSw0h1c~A6Z">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223545409380&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-REVOLVER-Capitol-no-bar-code/223545409380?hash=item340c583f64:g:6sEAAOSw0h1c~A6Z]]></guid>
+<pubDate>Sat, 08 Jun 2019 12:41:51 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2150</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560627711000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">19</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES Do You Want To Know A Secret Vee Jay Records Promo 45 VJ-587 Rare]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-Do-You-Want-To-Know-A-Secret-Vee-Jay-Records-Promo-45-VJ-587-Rare/153514248811?hash=item23be298a6b:g:xEYAAOSw7k9c9wZC]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-Do-You-Want-To-Know-A-Secret-Vee-Jay-Records-Promo-45-VJ-587-Rare/153514248811?hash=item23be298a6b:g:xEYAAOSw7k9c9wZC"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/xEYAAOSw7k9c9wZC/s-l225.jpg"></a></td><td><div><span><strong>$103.50</strong></span> (17 Bids)</div><div>End Date: <span>Jun-11 17:14</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-Do-You-Want-To-Know-A-Secret-Vee-Jay-Records-Promo-45-VJ-587-Rare/153514248811?hash=item23be298a6b:g:xEYAAOSw7k9c9wZC">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=153514248811&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-Do-You-Want-To-Know-A-Secret-Vee-Jay-Records-Promo-45-VJ-587-Rare/153514248811?hash=item23be298a6b:g:xEYAAOSw7k9c9wZC]]></guid>
+<pubDate>Tue, 04 Jun 2019 17:14:56 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">10350</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560298496000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">17</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles - White Album [New Vinyl] 180 Gram, Rmst, Reissue]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-White-Album-New-Vinyl-180-Gram-Rmst-Reissue/133071170400?hash=item1efba8eb60:g:OXoAAOSw38VbxiYT]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-White-Album-New-Vinyl-180-Gram-Rmst-Reissue/133071170400?hash=item1efba8eb60:g:OXoAAOSw38VbxiYT"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/OXoAAOSw38VbxiYT/s-l225.jpg"></a></td><td><div><span><strong>$26.99</strong></span></div><div>End Date: <span>Jul-01 15:26</span></div><div>Buy It Now for only: US $26.99</div><a href="https://www.ebay.com/itm/The-Beatles-White-Album-New-Vinyl-180-Gram-Rmst-Reissue/133071170400?hash=item1efba8eb60:g:OXoAAOSw38VbxiYT">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=133071170400&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-White-Album-New-Vinyl-180-Gram-Rmst-Reissue/133071170400?hash=item1efba8eb60:g:OXoAAOSw38VbxiYT]]></guid>
+<pubDate>Sat, 01 Jun 2019 15:26:42 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2699</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2699</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562020002000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles lp record A HARD DAY'S NIGHT in Shrink, United Artists 1968]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-lp-record-A-HARD-DAYS-NIGHT-in-Shrink-United-Artists-1968/223547513062?hash=item340c7858e6:g:RLIAAOSwRjlc~p-q]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-lp-record-A-HARD-DAYS-NIGHT-in-Shrink-United-Artists-1968/223547513062?hash=item340c7858e6:g:RLIAAOSwRjlc~p-q"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/RLIAAOSwRjlc~p-q/s-l225.jpg"></a></td><td><div><span><strong>$2.25</strong></span> (4 Bids)</div><div>End Date: <span>Jun-20 11:29</span></div><a href="https://www.ebay.com/itm/The-Beatles-lp-record-A-HARD-DAYS-NIGHT-in-Shrink-United-Artists-1968/223547513062?hash=item340c7858e6:g:RLIAAOSwRjlc~p-q">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223547513062&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-lp-record-A-HARD-DAYS-NIGHT-in-Shrink-United-Artists-1968/223547513062?hash=item340c7858e6:g:RLIAAOSwRjlc~p-q]]></guid>
+<pubDate>Mon, 10 Jun 2019 11:29:09 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">225</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561055349000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles SEALED lp record SGT PEPPERS LONELY HEARTS CLUB BAND, Philippines]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-SGT-PEPPERS-LONELY-HEARTS-CLUB-BAND-Philippines/223545416782?hash=item340c585c4e:g:6jAAAOSwJJZc~A~l]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-SGT-PEPPERS-LONELY-HEARTS-CLUB-BAND-Philippines/223545416782?hash=item340c585c4e:g:6jAAAOSwJJZc~A~l"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/6jAAAOSwJJZc~A~l/s-l225.jpg"></a></td><td><div><span><strong>$11.50</strong></span> (6 Bids)</div><div>End Date: <span>Jun-15 12:54</span></div><a href="https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-SGT-PEPPERS-LONELY-HEARTS-CLUB-BAND-Philippines/223545416782?hash=item340c585c4e:g:6jAAAOSwJJZc~A~l">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223545416782&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-SEALED-lp-record-SGT-PEPPERS-LONELY-HEARTS-CLUB-BAND-Philippines/223545416782?hash=item340c585c4e:g:6jAAAOSwJJZc~A~l]]></guid>
+<pubDate>Sat, 08 Jun 2019 12:54:10 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1150</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560628450000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">6</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Beatles - Hey Jude (The Beatles Again) LP - Apple VG+ Shrink]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Beatles-Hey-Jude-The-Beatles-Again-LP-Apple-VG-Shrink/312646829106?hash=item48cb340432:g:YMMAAOSwmgVc-zCY]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Beatles-Hey-Jude-The-Beatles-Again-LP-Apple-VG-Shrink/312646829106?hash=item48cb340432:g:YMMAAOSwmgVc-zCY"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/YMMAAOSwmgVc-zCY/s-l225.jpg"></a></td><td><div><span><strong>$8.50</strong></span> (2 Bids)</div><div>End Date: <span>Jun-16 08:35</span></div><a href="https://www.ebay.com/itm/Beatles-Hey-Jude-The-Beatles-Again-LP-Apple-VG-Shrink/312646829106?hash=item48cb340432:g:YMMAAOSwmgVc-zCY">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=312646829106&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Beatles-Hey-Jude-The-Beatles-Again-LP-Apple-VG-Shrink/312646829106?hash=item48cb340432:g:YMMAAOSwmgVc-zCY]]></guid>
+<pubDate>Sun, 09 Jun 2019 08:35:28 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">850</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560699328000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">2</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Revolver Vinyl Lp Apple 1971 Reissue Excellent Record Free Shipping!]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Revolver-Vinyl-Lp-Apple-1971-Reissue-Excellent-Record-Free-Shipping/163720274983?hash=item261e7d2427:g:w~sAAOSw7k9c9wVk]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Revolver-Vinyl-Lp-Apple-1971-Reissue-Excellent-Record-Free-Shipping/163720274983?hash=item261e7d2427:g:w~sAAOSw7k9c9wVk"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/w~sAAOSw7k9c9wVk/s-l225.jpg"></a></td><td><div><span><strong>$15.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-11 17:24</span></div><div>Buy It Now for only: US $22.00</div><a href="https://www.ebay.com/itm/The-Beatles-Revolver-Vinyl-Lp-Apple-1971-Reissue-Excellent-Record-Free-Shipping/163720274983?hash=item261e7d2427:g:w~sAAOSw7k9c9wVk">Bid now</a><span>  |  </span><a href="https://www.ebay.com/itm/The-Beatles-Revolver-Vinyl-Lp-Apple-1971-Reissue-Excellent-Record-Free-Shipping/163720274983?hash=item261e7d2427:g:w~sAAOSw7k9c9wVk">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=163720274983&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Revolver-Vinyl-Lp-Apple-1971-Reissue-Excellent-Record-Free-Shipping/163720274983?hash=item261e7d2427:g:w~sAAOSw7k9c9wVk]]></guid>
+<pubDate>Tue, 04 Jun 2019 17:24:28 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2200</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1500</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560299068000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[meet the beatles stereo lp]]></title>
+<link><![CDATA[https://www.ebay.com/itm/meet-the-beatles-stereo-lp/163724585446?hash=item261ebee9e6:g:vtEAAOSwen9c-vCB]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/meet-the-beatles-stereo-lp/163724585446?hash=item261ebee9e6:g:vtEAAOSwen9c-vCB"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/vtEAAOSwen9c-vCB/s-l225.jpg"></a></td><td><div><span><strong>$10.00</strong></span> (1 Bids)</div><div>End Date: <span>Jun-14 16:21</span></div><a href="https://www.ebay.com/itm/meet-the-beatles-stereo-lp/163724585446?hash=item261ebee9e6:g:vtEAAOSwen9c-vCB">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=163724585446&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/meet-the-beatles-stereo-lp/163724585446?hash=item261ebee9e6:g:vtEAAOSwen9c-vCB]]></guid>
+<pubDate>Fri, 07 Jun 2019 16:21:02 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1000</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560554462000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES LOT OF 2 LP"S CAPITOL RECORDS VG]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-LOT-OF-2-LP-S-CAPITOL-RECORDS-VG/293116321136?hash=item443f181d70:g:tPAAAOSwojBc~SyA]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-LOT-OF-2-LP-S-CAPITOL-RECORDS-VG/293116321136?hash=item443f181d70:g:tPAAAOSwojBc~SyA"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/tPAAAOSwojBc~SyA/s-l225.jpg"></a></td><td><div><span><strong>$3.99</strong></span> (1 Bids)</div><div>End Date: <span>Jun-19 09:05</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-LOT-OF-2-LP-S-CAPITOL-RECORDS-VG/293116321136?hash=item443f181d70:g:tPAAAOSwojBc~SyA">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=293116321136&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-LOT-OF-2-LP-S-CAPITOL-RECORDS-VG/293116321136?hash=item443f181d70:g:tPAAAOSwojBc~SyA]]></guid>
+<pubDate>Sun, 09 Jun 2019 09:05:20 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">399</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560960320000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[1977 Capitol Records 4506, The Beatles You're Going To Lose That Girl - Clear 45]]></title>
+<link><![CDATA[https://www.ebay.com/itm/1977-Capitol-Records-4506-The-Beatles-Youre-Going-To-Lose-That-Girl-Clear-45/173923848355?hash=item287eab50a3:g:dg0AAOSwqatc9zjO]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/1977-Capitol-Records-4506-The-Beatles-Youre-Going-To-Lose-That-Girl-Clear-45/173923848355?hash=item287eab50a3:g:dg0AAOSwqatc9zjO"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/dg0AAOSwqatc9zjO/s-l225.jpg"></a></td><td><div><span><strong>$20.50</strong></span> (4 Bids)</div><div>End Date: <span>Jun-11 21:03</span></div><a href="https://www.ebay.com/itm/1977-Capitol-Records-4506-The-Beatles-Youre-Going-To-Lose-That-Girl-Clear-45/173923848355?hash=item287eab50a3:g:dg0AAOSwqatc9zjO">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=173923848355&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/1977-Capitol-Records-4506-The-Beatles-Youre-Going-To-Lose-That-Girl-Clear-45/173923848355?hash=item287eab50a3:g:dg0AAOSwqatc9zjO]]></guid>
+<pubDate>Tue, 04 Jun 2019 21:03:44 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2050</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560312224000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES YESTERDAY AND TODAY CAPITOL EX/VG]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-YESTERDAY-AND-TODAY-CAPITOL-EX-VG/273854647660?hash=item3fc3024d6c:g:FTsAAOSwQj1c4XHP]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-YESTERDAY-AND-TODAY-CAPITOL-EX-VG/273854647660?hash=item3fc3024d6c:g:FTsAAOSwQj1c4XHP"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/FTsAAOSwQj1c4XHP/s-l225.jpg"></a></td><td><div><span><strong>$4.49</strong></span> (3 Bids)</div><div>End Date: <span>Jun-14 17:28</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-YESTERDAY-AND-TODAY-CAPITOL-EX-VG/273854647660?hash=item3fc3024d6c:g:FTsAAOSwQj1c4XHP">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=273854647660&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-YESTERDAY-AND-TODAY-CAPITOL-EX-VG/273854647660?hash=item3fc3024d6c:g:FTsAAOSwQj1c4XHP]]></guid>
+<pubDate>Fri, 07 Jun 2019 17:28:03 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">449</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560558483000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">3</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Large Vintage The Beatles 45 Records Lp Lot With Sleeves Wow!!! Single Owner NR]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Large-Vintage-The-Beatles-45-Records-Lp-Lot-With-Sleeves-Wow-Single-Owner-NR/372687471236?hash=item56c5e78284:g:waYAAOSwwaNc~n~L]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Large-Vintage-The-Beatles-45-Records-Lp-Lot-With-Sleeves-Wow-Single-Owner-NR/372687471236?hash=item56c5e78284:g:waYAAOSwwaNc~n~L"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/waYAAOSwwaNc~n~L/s-l225.jpg"></a></td><td><div><span><strong>$42.33</strong></span> (13 Bids)</div><div>End Date: <span>Jun-17 09:31</span></div><a href="https://www.ebay.com/itm/Large-Vintage-The-Beatles-45-Records-Lp-Lot-With-Sleeves-Wow-Single-Owner-NR/372687471236?hash=item56c5e78284:g:waYAAOSwwaNc~n~L">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=372687471236&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Large-Vintage-The-Beatles-45-Records-Lp-Lot-With-Sleeves-Wow-Single-Owner-NR/372687471236?hash=item56c5e78284:g:waYAAOSwwaNc~n~L]]></guid>
+<pubDate>Mon, 10 Jun 2019 09:31:11 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4233</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560789071000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">13</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles The Best of Badfinger Apple double lp record, 1995 Sapcor UK]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-The-Best-of-Badfinger-Apple-double-lp-record-1995-Sapcor-UK/323830836646?hash=item4b65d26da6:g:gPkAAOSwjdpc~mXx]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-The-Best-of-Badfinger-Apple-double-lp-record-1995-Sapcor-UK/323830836646?hash=item4b65d26da6:g:gPkAAOSwjdpc~mXx"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/gPkAAOSwjdpc~mXx/s-l225.jpg"></a></td><td><div><span><strong>$6.50</strong></span> (13 Bids)</div><div>End Date: <span>Jun-20 07:21</span></div><a href="https://www.ebay.com/itm/The-Beatles-The-Best-of-Badfinger-Apple-double-lp-record-1995-Sapcor-UK/323830836646?hash=item4b65d26da6:g:gPkAAOSwjdpc~mXx">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323830836646&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-The-Best-of-Badfinger-Apple-double-lp-record-1995-Sapcor-UK/323830836646?hash=item4b65d26da6:g:gPkAAOSwjdpc~mXx]]></guid>
+<pubDate>Mon, 10 Jun 2019 07:21:09 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">650</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561040469000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">13</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Apple lp record WHITE ALBUM, numbered 1968 #0842290]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Apple-lp-record-WHITE-ALBUM-numbered-1968-0842290/223547610379?hash=item340c79d50b:g:vAwAAOSwlxdc~r2G]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Apple-lp-record-WHITE-ALBUM-numbered-1968-0842290/223547610379?hash=item340c79d50b:g:vAwAAOSwlxdc~r2G"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/vAwAAOSwlxdc~r2G/s-l225.jpg"></a></td><td><div><span><strong>$17.51</strong></span> (8 Bids)</div><div>End Date: <span>Jun-17 13:36</span></div><a href="https://www.ebay.com/itm/The-Beatles-Apple-lp-record-WHITE-ALBUM-numbered-1968-0842290/223547610379?hash=item340c79d50b:g:vAwAAOSwlxdc~r2G">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223547610379&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Apple-lp-record-WHITE-ALBUM-numbered-1968-0842290/223547610379?hash=item340c79d50b:g:vAwAAOSwlxdc~r2G]]></guid>
+<pubDate>Mon, 10 Jun 2019 13:36:28 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1751</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560803788000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">8</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles-Souvenir Of Their Visit To America-VJEP 1-903-Cover Only]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Souvenir-Of-Their-Visit-To-America-VJEP-1-903-Cover-Only/264357232053?hash=item3d8ceb3db5:g:80MAAOSwdxdc~qza]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Souvenir-Of-Their-Visit-To-America-VJEP-1-903-Cover-Only/264357232053?hash=item3d8ceb3db5:g:80MAAOSwdxdc~qza"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/80MAAOSwdxdc~qza/s-l225.jpg"></a></td><td><div><span><strong>$11.50</strong></span> (3 Bids)</div><div>End Date: <span>Jun-17 18:04</span></div><a href="https://www.ebay.com/itm/The-Beatles-Souvenir-Of-Their-Visit-To-America-VJEP-1-903-Cover-Only/264357232053?hash=item3d8ceb3db5:g:80MAAOSwdxdc~qza">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=264357232053&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Souvenir-Of-Their-Visit-To-America-VJEP-1-903-Cover-Only/264357232053?hash=item3d8ceb3db5:g:80MAAOSwdxdc~qza]]></guid>
+<pubDate>Mon, 10 Jun 2019 18:04:10 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1150</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560819850000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">3</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES WHITE ALBUM CAPITOL 2LP VG/EXCELLENT POSTER NUMBERED COVER]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-WHITE-ALBUM-CAPITOL-2LP-VG-EXCELLENT-POSTER-NUMBERED-COVER/273854651091?hash=item3fc3025ad3:g:6x0AAOSwiM5c4XJe]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-WHITE-ALBUM-CAPITOL-2LP-VG-EXCELLENT-POSTER-NUMBERED-COVER/273854651091?hash=item3fc3025ad3:g:6x0AAOSwiM5c4XJe"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/6x0AAOSwiM5c4XJe/s-l225.jpg"></a></td><td><div><span><strong>$4.24</strong></span> (2 Bids)</div><div>End Date: <span>Jun-14 17:30</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-WHITE-ALBUM-CAPITOL-2LP-VG-EXCELLENT-POSTER-NUMBERED-COVER/273854651091?hash=item3fc3025ad3:g:6x0AAOSwiM5c4XJe">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=273854651091&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-WHITE-ALBUM-CAPITOL-2LP-VG-EXCELLENT-POSTER-NUMBERED-COVER/273854651091?hash=item3fc3025ad3:g:6x0AAOSwiM5c4XJe]]></guid>
+<pubDate>Fri, 07 Jun 2019 17:30:46 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">424</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560558646000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">2</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES / YESTERDAY & TODAY BUTCHER COVER -BRAND NEW 180G WHITE VINYL LP]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-YESTERDAY-TODAY-BUTCHER-COVER-BRAND-NEW-180G-WHITE-VINYL-LP/323816260922?hash=item4b64f4053a:g:NUYAAOSwEnpc6FEa]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-YESTERDAY-TODAY-BUTCHER-COVER-BRAND-NEW-180G-WHITE-VINYL-LP/323816260922?hash=item4b64f4053a:g:NUYAAOSwEnpc6FEa"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/NUYAAOSwEnpc6FEa/s-l225.jpg"></a></td><td><div><span><strong>$42.98</strong></span></div><div>End Date: <span>Jun-23 13:16</span></div><div>Buy It Now for only: US $42.98</div><a href="https://www.ebay.com/itm/THE-BEATLES-YESTERDAY-TODAY-BUTCHER-COVER-BRAND-NEW-180G-WHITE-VINYL-LP/323816260922?hash=item4b64f4053a:g:NUYAAOSwEnpc6FEa">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323816260922&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-YESTERDAY-TODAY-BUTCHER-COVER-BRAND-NEW-180G-WHITE-VINYL-LP/323816260922?hash=item4b64f4053a:g:NUYAAOSwEnpc6FEa]]></guid>
+<pubDate>Fri, 24 May 2019 13:16:38 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4298</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4298</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561320998000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles  - The Long And Winding Road/For You Blue -  US Picture Sleeve PS 7"]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-The-Long-And-Winding-Road-For-You-Blue-US-Picture-Sleeve-PS-7/333228091134?hash=item4d95f126fe:g:iY0AAOSwZYtc~Xca]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-The-Long-And-Winding-Road-For-You-Blue-US-Picture-Sleeve-PS-7/333228091134?hash=item4d95f126fe:g:iY0AAOSwZYtc~Xca"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/iY0AAOSwZYtc~Xca/s-l225.jpg"></a></td><td><div><span><strong>$4.99</strong></span> (0 Bids)</div><div>End Date: <span>Jun-16 14:17</span></div><a href="https://www.ebay.com/itm/The-Beatles-The-Long-And-Winding-Road-For-You-Blue-US-Picture-Sleeve-PS-7/333228091134?hash=item4d95f126fe:g:iY0AAOSwZYtc~Xca">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=333228091134&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-The-Long-And-Winding-Road-For-You-Blue-US-Picture-Sleeve-PS-7/333228091134?hash=item4d95f126fe:g:iY0AAOSwZYtc~Xca]]></guid>
+<pubDate>Sun, 09 Jun 2019 14:17:19 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">499</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560719839000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles - Rubber Soul [New Vinyl] 180 Gram, Rmst, Reissue]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Rubber-Soul-New-Vinyl-180-Gram-Rmst-Reissue/141936519883?hash=item210c136acb:g:nRUAAOSwmgJY7CaI]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Rubber-Soul-New-Vinyl-180-Gram-Rmst-Reissue/141936519883?hash=item210c136acb:g:nRUAAOSwmgJY7CaI"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/nRUAAOSwmgJY7CaI/s-l225.jpg"></a></td><td><div><span><strong>$21.21</strong></span></div><div>End Date: <span>Jul-04 16:42</span></div><div>Buy It Now for only: US $21.21</div><a href="https://www.ebay.com/itm/The-Beatles-Rubber-Soul-New-Vinyl-180-Gram-Rmst-Reissue/141936519883?hash=item210c136acb:g:nRUAAOSwmgJY7CaI">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=141936519883&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Rubber-Soul-New-Vinyl-180-Gram-Rmst-Reissue/141936519883?hash=item210c136acb:g:nRUAAOSwmgJY7CaI]]></guid>
+<pubDate>Mon, 21 Mar 2016 16:42:04 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2121</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2121</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562283724000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Beatles White Album EMI Apple insert poster 4 photos +3 UK]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Beatles-White-Album-EMI-Apple-insert-poster-4-photos-3-UK/173928435125?hash=item287ef14db5:g:0e4AAOSwn2xc~aA~]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Beatles-White-Album-EMI-Apple-insert-poster-4-photos-3-UK/173928435125?hash=item287ef14db5:g:0e4AAOSwn2xc~aA~"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/0e4AAOSwn2xc~aA~/s-l225.jpg"></a></td><td><div><span><strong>$12.00</strong></span> (1 Bids)</div><div>End Date: <span>Jun-16 17:17</span></div><a href="https://www.ebay.com/itm/Beatles-White-Album-EMI-Apple-insert-poster-4-photos-3-UK/173928435125?hash=item287ef14db5:g:0e4AAOSwn2xc~aA~">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=173928435125&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Beatles-White-Album-EMI-Apple-insert-poster-4-photos-3-UK/173928435125?hash=item287ef14db5:g:0e4AAOSwn2xc~aA~]]></guid>
+<pubDate>Sun, 09 Jun 2019 17:17:42 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1200</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560730662000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES - Leave My Kitten Alone - NM 1985 Capitol 45 Picture Sleeve only]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-Leave-My-Kitten-Alone-NM-1985-Capitol-45-Picture-Sleeve-only/382967272817?hash=item592aa0d571:g:0-4AAOSwlk9c5dvK]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-Leave-My-Kitten-Alone-NM-1985-Capitol-45-Picture-Sleeve-only/382967272817?hash=item592aa0d571:g:0-4AAOSwlk9c5dvK"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/0-4AAOSwlk9c5dvK/s-l225.jpg"></a></td><td><div><span><strong>$20.50</strong></span> (3 Bids)</div><div>End Date: <span>Jun-16 16:15</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-Leave-My-Kitten-Alone-NM-1985-Capitol-45-Picture-Sleeve-only/382967272817?hash=item592aa0d571:g:0-4AAOSwlk9c5dvK">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=382967272817&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-Leave-My-Kitten-Alone-NM-1985-Capitol-45-Picture-Sleeve-only/382967272817?hash=item592aa0d571:g:0-4AAOSwlk9c5dvK]]></guid>
+<pubDate>Sun, 09 Jun 2019 16:15:09 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2050</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560726909000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">3</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles - Revolver [New Vinyl] 180 Gram, Rmst, Reissue]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Revolver-New-Vinyl-180-Gram-Rmst-Reissue/141586609208?hash=item20f7383438:g:Z8AAAOSwB-1Y7CaU]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Revolver-New-Vinyl-180-Gram-Rmst-Reissue/141586609208?hash=item20f7383438:g:Z8AAAOSwB-1Y7CaU"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/Z8AAAOSwB-1Y7CaU/s-l225.jpg"></a></td><td><div><span><strong>$22.43</strong></span></div><div>End Date: <span>Jul-04 10:44</span></div><div>Buy It Now for only: US $22.43</div><a href="https://www.ebay.com/itm/The-Beatles-Revolver-New-Vinyl-180-Gram-Rmst-Reissue/141586609208?hash=item20f7383438:g:Z8AAAOSwB-1Y7CaU">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=141586609208&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Revolver-New-Vinyl-180-Gram-Rmst-Reissue/141586609208?hash=item20f7383438:g:Z8AAAOSwB-1Y7CaU]]></guid>
+<pubDate>Wed, 25 Feb 2015 10:44:18 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2243</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2243</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562262258000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Sgt. Pepper’s LHCB Original Capitol 1st MONO Pressing LP]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Sgt-Pepper-s-LHCB-Original-Capitol-1st-MONO-Pressing-LP/312651603700?hash=item48cb7cdef4:g:O6YAAOSw3Lxc~wq~]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Sgt-Pepper-s-LHCB-Original-Capitol-1st-MONO-Pressing-LP/312651603700?hash=item48cb7cdef4:g:O6YAAOSw3Lxc~wq~"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/O6YAAOSw3Lxc~wq~/s-l225.jpg"></a></td><td><div><span><strong>$9.95</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 19:04</span></div><a href="https://www.ebay.com/itm/The-Beatles-Sgt-Pepper-s-LHCB-Original-Capitol-1st-MONO-Pressing-LP/312651603700?hash=item48cb7cdef4:g:O6YAAOSw3Lxc~wq~">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=312651603700&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Sgt-Pepper-s-LHCB-Original-Capitol-1st-MONO-Pressing-LP/312651603700?hash=item48cb7cdef4:g:O6YAAOSw3Lxc~wq~]]></guid>
+<pubDate>Mon, 10 Jun 2019 19:04:41 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">995</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560823481000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES 2 LP "The White Album" ORIGINAL APPLE w POSTER & 4 PHOTOS NM-/NM]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-2-LP-The-White-Album-ORIGINAL-APPLE-w-POSTER-4-PHOTOS-NM-NM/372687024776?hash=item56c5e0b288:g:or0AAOSwJxVc~YeQ]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-2-LP-The-White-Album-ORIGINAL-APPLE-w-POSTER-4-PHOTOS-NM-NM/372687024776?hash=item56c5e0b288:g:or0AAOSwJxVc~YeQ"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/or0AAOSwJxVc~YeQ/s-l225.jpg"></a></td><td><div><span><strong>$20.50</strong></span> (13 Bids)</div><div>End Date: <span>Jun-16 16:30</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-2-LP-The-White-Album-ORIGINAL-APPLE-w-POSTER-4-PHOTOS-NM-NM/372687024776?hash=item56c5e0b288:g:or0AAOSwJxVc~YeQ">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=372687024776&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-2-LP-The-White-Album-ORIGINAL-APPLE-w-POSTER-4-PHOTOS-NM-NM/372687024776?hash=item56c5e0b288:g:or0AAOSwJxVc~YeQ]]></guid>
+<pubDate>Sun, 09 Jun 2019 16:30:07 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2050</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560727807000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">13</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Beatles Sgt Peppers Lonely Hearts Club Band w insert Parlophone UK]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-w-insert-Parlophone-UK/173928437660?hash=item287ef1579c:g:FfcAAOSwCRRc~aKf]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-w-insert-Parlophone-UK/173928437660?hash=item287ef1579c:g:FfcAAOSwCRRc~aKf"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/FfcAAOSwCRRc~aKf/s-l225.jpg"></a></td><td><div><span><strong>$8.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-16 17:24</span></div><a href="https://www.ebay.com/itm/Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-w-insert-Parlophone-UK/173928437660?hash=item287ef1579c:g:FfcAAOSwCRRc~aKf">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=173928437660&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-w-insert-Parlophone-UK/173928437660?hash=item287ef1579c:g:FfcAAOSwCRRc~aKf]]></guid>
+<pubDate>Sun, 09 Jun 2019 17:24:11 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">800</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560731051000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles-Ballad of John & Yoko/Old Brown Shoe-Vinyl 45 w/West Coast Sleeve]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Ballad-of-John-Yoko-Old-Brown-Shoe-Vinyl-45-w-West-Coast-Sleeve/264357225235?hash=item3d8ceb2313:g:XmoAAOSwi~Jc~qr0]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Ballad-of-John-Yoko-Old-Brown-Shoe-Vinyl-45-w-West-Coast-Sleeve/264357225235?hash=item3d8ceb2313:g:XmoAAOSwi~Jc~qr0"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/XmoAAOSwi~Jc~qr0/s-l225.jpg"></a></td><td><div><span><strong>$9.99</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 18:02</span></div><a href="https://www.ebay.com/itm/The-Beatles-Ballad-of-John-Yoko-Old-Brown-Shoe-Vinyl-45-w-West-Coast-Sleeve/264357225235?hash=item3d8ceb2313:g:XmoAAOSwi~Jc~qr0">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=264357225235&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Ballad-of-John-Yoko-Old-Brown-Shoe-Vinyl-45-w-West-Coast-Sleeve/264357225235?hash=item3d8ceb2313:g:XmoAAOSwi~Jc~qr0]]></guid>
+<pubDate>Mon, 10 Jun 2019 18:02:18 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">999</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560819738000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Double-LP-Record-Album-The Beatles / 1962-1966 w/ rare information sheet]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Double-LP-Record-Album-The-Beatles-1962-1966-w-rare-information-sheet/183843054069?hash=item2acde661f5:g:m8sAAOSwZeRc~plS]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Double-LP-Record-Album-The-Beatles-1962-1966-w-rare-information-sheet/183843054069?hash=item2acde661f5:g:m8sAAOSwZeRc~plS"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/m8sAAOSwZeRc~plS/s-l225.jpg"></a></td><td><div><span><strong>$6.00</strong></span> (1 Bids)</div><div>End Date: <span>Jun-17 10:56</span></div><a href="https://www.ebay.com/itm/Double-LP-Record-Album-The-Beatles-1962-1966-w-rare-information-sheet/183843054069?hash=item2acde661f5:g:m8sAAOSwZeRc~plS">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=183843054069&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Double-LP-Record-Album-The-Beatles-1962-1966-w-rare-information-sheet/183843054069?hash=item2acde661f5:g:m8sAAOSwZeRc~plS]]></guid>
+<pubDate>Mon, 10 Jun 2019 10:56:50 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">600</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560794210000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Apple lp record ABBEY ROAD, 1969 cover, 2012 vinyl]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Apple-lp-record-ABBEY-ROAD-1969-cover-2012-vinyl/323830308601?hash=item4b65ca5ef9:g:6v4AAOSw7QVc~ZK1]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Apple-lp-record-ABBEY-ROAD-1969-cover-2012-vinyl/323830308601?hash=item4b65ca5ef9:g:6v4AAOSw7QVc~ZK1"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/6v4AAOSw7QVc~ZK1/s-l225.jpg"></a></td><td><div><span><strong>$0.01</strong></span> (1 Bids)</div><div>End Date: <span>Jun-16 16:20</span></div><a href="https://www.ebay.com/itm/The-Beatles-Apple-lp-record-ABBEY-ROAD-1969-cover-2012-vinyl/323830308601?hash=item4b65ca5ef9:g:6v4AAOSw7QVc~ZK1">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323830308601&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Apple-lp-record-ABBEY-ROAD-1969-cover-2012-vinyl/323830308601?hash=item4b65ca5ef9:g:6v4AAOSw7QVc~ZK1]]></guid>
+<pubDate>Sun, 09 Jun 2019 16:20:40 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560727240000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[VG/VG The Beatles Yellow Submarine Apple Vinyl Record LP Classic Rock]]></title>
+<link><![CDATA[https://www.ebay.com/itm/VG-VG-The-Beatles-Yellow-Submarine-Apple-Vinyl-Record-LP-Classic-Rock/173930423095?hash=item287f0fa337:g:qMsAAOSwfP1dAB9t]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/VG-VG-The-Beatles-Yellow-Submarine-Apple-Vinyl-Record-LP-Classic-Rock/173930423095?hash=item287f0fa337:g:qMsAAOSwfP1dAB9t"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/qMsAAOSwfP1dAB9t/s-l225.jpg"></a></td><td><div><span><strong>$25.99</strong></span></div><div>End Date: <span>Jul-11 14:39</span></div><div>Buy It Now for only: US $25.99</div><a href="https://www.ebay.com/itm/VG-VG-The-Beatles-Yellow-Submarine-Apple-Vinyl-Record-LP-Classic-Rock/173930423095?hash=item287f0fa337:g:qMsAAOSwfP1dAB9t">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=173930423095&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/VG-VG-The-Beatles-Yellow-Submarine-Apple-Vinyl-Record-LP-Classic-Rock/173930423095?hash=item287f0fa337:g:qMsAAOSwfP1dAB9t]]></guid>
+<pubDate>Tue, 11 Jun 2019 14:39:17 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2599</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2599</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562881157000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[FACTORY SEALED The Beatles 1969 Abbey Road LP Apple SO-383 Sewer Lid Cover MINT!]]></title>
+<link><![CDATA[https://www.ebay.com/itm/FACTORY-SEALED-The-Beatles-1969-Abbey-Road-LP-Apple-SO-383-Sewer-Lid-Cover-MINT/254257099042?hash=item3b32e77122:g:LPkAAOSwCJ9c-tOU]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/FACTORY-SEALED-The-Beatles-1969-Abbey-Road-LP-Apple-SO-383-Sewer-Lid-Cover-MINT/254257099042?hash=item3b32e77122:g:LPkAAOSwCJ9c-tOU"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/LPkAAOSwCJ9c-tOU/s-l225.jpg"></a></td><td><div><span><strong>$41.00</strong></span> (21 Bids)</div><div>End Date: <span>Jun-14 14:32</span></div><a href="https://www.ebay.com/itm/FACTORY-SEALED-The-Beatles-1969-Abbey-Road-LP-Apple-SO-383-Sewer-Lid-Cover-MINT/254257099042?hash=item3b32e77122:g:LPkAAOSwCJ9c-tOU">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=254257099042&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/FACTORY-SEALED-The-Beatles-1969-Abbey-Road-LP-Apple-SO-383-Sewer-Lid-Cover-MINT/254257099042?hash=item3b32e77122:g:LPkAAOSwCJ9c-tOU]]></guid>
+<pubDate>Fri, 07 Jun 2019 14:32:03 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4100</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560547923000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">21</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Double-LP-Record-Album-The Beatles White album w/ rare photo's, poster, sheet.]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Double-LP-Record-Album-The-Beatles-White-album-w-rare-photos-poster-sheet/183843060304?hash=item2acde67a50:g:OooAAOSwN6Fc~pox]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Double-LP-Record-Album-The-Beatles-White-album-w-rare-photos-poster-sheet/183843060304?hash=item2acde67a50:g:OooAAOSwN6Fc~pox"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/OooAAOSwN6Fc~pox/s-l225.jpg"></a></td><td><div><span><strong>$9.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 11:03</span></div><a href="https://www.ebay.com/itm/Double-LP-Record-Album-The-Beatles-White-album-w-rare-photos-poster-sheet/183843060304?hash=item2acde67a50:g:OooAAOSwN6Fc~pox">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=183843060304&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Double-LP-Record-Album-The-Beatles-White-album-w-rare-photos-poster-sheet/183843060304?hash=item2acde67a50:g:OooAAOSwN6Fc~pox]]></guid>
+<pubDate>Mon, 10 Jun 2019 11:03:32 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">900</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560794612000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles sealed Apple double lp record PAST MASTERS VOLUME ONE & TWO 1988 UK]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-sealed-Apple-double-lp-record-PAST-MASTERS-VOLUME-ONE-TWO-1988-UK/323830830487?hash=item4b65d25597:g:CbYAAOSwU5Nc~mKb]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-sealed-Apple-double-lp-record-PAST-MASTERS-VOLUME-ONE-TWO-1988-UK/323830830487?hash=item4b65d25597:g:CbYAAOSwU5Nc~mKb"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/CbYAAOSwU5Nc~mKb/s-l225.jpg"></a></td><td><div><span><strong>$4.25</strong></span> (4 Bids)</div><div>End Date: <span>Jun-20 07:11</span></div><a href="https://www.ebay.com/itm/The-Beatles-sealed-Apple-double-lp-record-PAST-MASTERS-VOLUME-ONE-TWO-1988-UK/323830830487?hash=item4b65d25597:g:CbYAAOSwU5Nc~mKb">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323830830487&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-sealed-Apple-double-lp-record-PAST-MASTERS-VOLUME-ONE-TWO-1988-UK/323830830487?hash=item4b65d25597:g:CbYAAOSwU5Nc~mKb]]></guid>
+<pubDate>Mon, 10 Jun 2019 07:11:13 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">425</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561039873000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Ringo Starr Apple lp record SENTIMENTAL JOURNEY in Shrink 1970]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Ringo-Starr-Apple-lp-record-SENTIMENTAL-JOURNEY-in-Shrink-1970/323831104062?hash=item4b65d6823e:g:soEAAOSw-Ilc~r-j]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Ringo-Starr-Apple-lp-record-SENTIMENTAL-JOURNEY-in-Shrink-1970/323831104062?hash=item4b65d6823e:g:soEAAOSw-Ilc~r-j"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/soEAAOSw-Ilc~r-j/s-l225.jpg"></a></td><td><div><span><strong>$1.50</strong></span> (3 Bids)</div><div>End Date: <span>Jun-17 13:44</span></div><a href="https://www.ebay.com/itm/The-Beatles-Ringo-Starr-Apple-lp-record-SENTIMENTAL-JOURNEY-in-Shrink-1970/323831104062?hash=item4b65d6823e:g:soEAAOSw-Ilc~r-j">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323831104062&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Ringo-Starr-Apple-lp-record-SENTIMENTAL-JOURNEY-in-Shrink-1970/323831104062?hash=item4b65d6823e:g:soEAAOSw-Ilc~r-j]]></guid>
+<pubDate>Mon, 10 Jun 2019 13:44:57 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">150</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560804297000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">3</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles 1962-1966 (2) Record Album LP]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-1962-1966-2-Record-Album-LP/163701950685?hash=item261d6588dd:g:HjMAAOSwactc5cxY]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-1962-1966-2-Record-Album-LP/163701950685?hash=item261d6588dd:g:HjMAAOSwactc5cxY"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/HjMAAOSwactc5cxY/s-l225.jpg"></a></td><td><div><span><strong>$8.99</strong></span></div><div>End Date: <span>Jun-21 15:27</span></div><div>Buy It Now for only: US $8.99</div><a href="https://www.ebay.com/itm/The-Beatles-1962-1966-2-Record-Album-LP/163701950685?hash=item261d6588dd:g:HjMAAOSwactc5cxY">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=163701950685&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-1962-1966-2-Record-Album-LP/163701950685?hash=item261d6588dd:g:HjMAAOSwactc5cxY]]></guid>
+<pubDate>Wed, 22 May 2019 15:27:08 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">899</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">899</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561156028000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Beatles Let It Be EMI Apple UK]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Beatles-Let-It-Be-EMI-Apple-UK/173928438709?hash=item287ef15bb5:g:6cMAAOSwp~pc~aNu]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Beatles-Let-It-Be-EMI-Apple-UK/173928438709?hash=item287ef15bb5:g:6cMAAOSwp~pc~aNu"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/6cMAAOSwp~pc~aNu/s-l225.jpg"></a></td><td><div><span><strong>$8.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-16 17:26</span></div><a href="https://www.ebay.com/itm/Beatles-Let-It-Be-EMI-Apple-UK/173928438709?hash=item287ef15bb5:g:6cMAAOSwp~pc~aNu">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=173928438709&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Beatles-Let-It-Be-EMI-Apple-UK/173928438709?hash=item287ef15bb5:g:6cMAAOSwp~pc~aNu]]></guid>
+<pubDate>Sun, 09 Jun 2019 17:26:21 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">800</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560731181000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Beatles - The Early Beatles LP - Capitol]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Beatles-The-Early-Beatles-LP-Capitol/202701256463?hash=item2f31efb70f:g:OEoAAOSwUAJc-zGS]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Beatles-The-Early-Beatles-LP-Capitol/202701256463?hash=item2f31efb70f:g:OEoAAOSwUAJc-zGS"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/OEoAAOSwUAJc-zGS/s-l225.jpg"></a></td><td><div><span><strong>$6.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-16 08:42</span></div><a href="https://www.ebay.com/itm/Beatles-The-Early-Beatles-LP-Capitol/202701256463?hash=item2f31efb70f:g:OEoAAOSwUAJc-zGS">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=202701256463&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Beatles-The-Early-Beatles-LP-Capitol/202701256463?hash=item2f31efb70f:g:OEoAAOSwUAJc-zGS]]></guid>
+<pubDate>Sun, 09 Jun 2019 08:42:59 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">600</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560699779000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES "Twist and Shout" 1964 High Grade ROCKER with rare PICTURE SLEEVE NM]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-Twist-and-Shout-1964-High-Grade-ROCKER-with-rare-PICTURE-SLEEVE-NM/202701907949?hash=item2f31f9a7ed:g:QvsAAOSw-hVc--jb]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-Twist-and-Shout-1964-High-Grade-ROCKER-with-rare-PICTURE-SLEEVE-NM/202701907949?hash=item2f31f9a7ed:g:QvsAAOSw-hVc--jb"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/QvsAAOSw-hVc--jb/s-l225.jpg"></a></td><td><div><span><strong>$26.00</strong></span> (2 Bids)</div><div>End Date: <span>Jun-15 10:02</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-Twist-and-Shout-1964-High-Grade-ROCKER-with-rare-PICTURE-SLEEVE-NM/202701907949?hash=item2f31f9a7ed:g:QvsAAOSw-hVc--jb">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=202701907949&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-Twist-and-Shout-1964-High-Grade-ROCKER-with-rare-PICTURE-SLEEVE-NM/202701907949?hash=item2f31f9a7ed:g:QvsAAOSw-hVc--jb]]></guid>
+<pubDate>Sat, 08 Jun 2019 10:02:40 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2600</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560618160000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">2</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Rubber Soul/Meet the Beatles LP Records (2)]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Rubber-Soul-Meet-the-Beatles-LP-Records-2/303175810802?hash=item4696afbef2:g:vJoAAOSw6pxc9HZh]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Rubber-Soul-Meet-the-Beatles-LP-Records-2/303175810802?hash=item4696afbef2:g:vJoAAOSw6pxc9HZh"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/vJoAAOSw6pxc9HZh/s-l225.jpg"></a></td><td><div><span><strong>$14.50</strong></span> (5 Bids)</div><div>End Date: <span>Jun-11 18:30</span></div><a href="https://www.ebay.com/itm/The-Beatles-Rubber-Soul-Meet-the-Beatles-LP-Records-2/303175810802?hash=item4696afbef2:g:vJoAAOSw6pxc9HZh">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=303175810802&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Rubber-Soul-Meet-the-Beatles-LP-Records-2/303175810802?hash=item4696afbef2:g:vJoAAOSw6pxc9HZh]]></guid>
+<pubDate>Tue, 04 Jun 2019 18:30:15 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1450</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560303015000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">5</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[the Beatles Sgt Peppers Lonely Hearts Club Band 1967 stereo 2653]]></title>
+<link><![CDATA[https://www.ebay.com/itm/the-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-1967-stereo-2653/123762568972?hash=item1cd0d2ef0c:g:6wkAAOSwUnJc1TS3]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/the-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-1967-stereo-2653/123762568972?hash=item1cd0d2ef0c:g:6wkAAOSwUnJc1TS3"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/6wkAAOSwUnJc1TS3/s-l225.jpg"></a></td><td><div><span><strong>$20.00</strong></span></div><div>End Date: <span>Jul-09 01:23</span></div><div>Buy It Now for only: US $20.00</div><a href="https://www.ebay.com/itm/the-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-1967-stereo-2653/123762568972?hash=item1cd0d2ef0c:g:6wkAAOSwUnJc1TS3">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=123762568972&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/the-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band-1967-stereo-2653/123762568972?hash=item1cd0d2ef0c:g:6wkAAOSwUnJc1TS3]]></guid>
+<pubDate>Fri, 10 May 2019 13:23:33 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2000</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2000</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562660611000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles/1962-1966 UK Double Vinyl Apple LP on RED VINYL]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-1962-1966-UK-Double-Vinyl-Apple-LP-on-RED-VINYL/312651623076?hash=item48cb7d2aa4:g:UMYAAOSwfudc~xNK]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-1962-1966-UK-Double-Vinyl-Apple-LP-on-RED-VINYL/312651623076?hash=item48cb7d2aa4:g:UMYAAOSwfudc~xNK"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/UMYAAOSwfudc~xNK/s-l225.jpg"></a></td><td><div><span><strong>$9.95</strong></span> (1 Bids)</div><div>End Date: <span>Jun-17 19:41</span></div><a href="https://www.ebay.com/itm/The-Beatles-1962-1966-UK-Double-Vinyl-Apple-LP-on-RED-VINYL/312651623076?hash=item48cb7d2aa4:g:UMYAAOSwfudc~xNK">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=312651623076&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-1962-1966-UK-Double-Vinyl-Apple-LP-on-RED-VINYL/312651623076?hash=item48cb7d2aa4:g:UMYAAOSwfudc~xNK]]></guid>
+<pubDate>Mon, 10 Jun 2019 19:41:40 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">995</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560825700000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Yesterday And Today Capitol T-2553 1966 MONO Pressing LP VG+ Vinyl]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Yesterday-And-Today-Capitol-T-2553-1966-MONO-Pressing-LP-VG-Vinyl/123796247699?hash=item1cd2d4d493:g:ybsAAOSwM5Rc~ALu]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Yesterday-And-Today-Capitol-T-2553-1966-MONO-Pressing-LP-VG-Vinyl/123796247699?hash=item1cd2d4d493:g:ybsAAOSwM5Rc~ALu"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/ybsAAOSwM5Rc~ALu/s-l225.jpg"></a></td><td><div><span><strong>$41.00</strong></span> (5 Bids)</div><div>End Date: <span>Jun-15 11:51</span></div><a href="https://www.ebay.com/itm/The-Beatles-Yesterday-And-Today-Capitol-T-2553-1966-MONO-Pressing-LP-VG-Vinyl/123796247699?hash=item1cd2d4d493:g:ybsAAOSwM5Rc~ALu">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=123796247699&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Yesterday-And-Today-Capitol-T-2553-1966-MONO-Pressing-LP-VG-Vinyl/123796247699?hash=item1cd2d4d493:g:ybsAAOSwM5Rc~ALu]]></guid>
+<pubDate>Sat, 08 Jun 2019 11:51:40 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4100</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560624700000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">5</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles (The White Album) [4 LP] Vinyl]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-The-White-Album-4-LP-Vinyl/183841617248?hash=item2acdd07560:g:rZoAAOSwhGdc7Ft5]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-The-White-Album-4-LP-Vinyl/183841617248?hash=item2acdd07560:g:rZoAAOSwhGdc7Ft5"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/rZoAAOSwhGdc7Ft5/s-l225.jpg"></a></td><td><div><span><strong>$6.50</strong></span> (3 Bids)</div><div>End Date: <span>Jun-16 09:47</span></div><a href="https://www.ebay.com/itm/The-Beatles-The-White-Album-4-LP-Vinyl/183841617248?hash=item2acdd07560:g:rZoAAOSwhGdc7Ft5">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=183841617248&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-The-White-Album-4-LP-Vinyl/183841617248?hash=item2acdd07560:g:rZoAAOSwhGdc7Ft5]]></guid>
+<pubDate>Sun, 09 Jun 2019 09:47:44 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">650</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560703664000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">3</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles-Please Please Me-Parlophone Vinyl LP-SEALED]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Please-Please-Me-Parlophone-Vinyl-LP-SEALED/264357259617?hash=item3d8ceba961:g:N6gAAOSwgjdc~rK~]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Please-Please-Me-Parlophone-Vinyl-LP-SEALED/264357259617?hash=item3d8ceba961:g:N6gAAOSwgjdc~rK~"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/N6gAAOSwgjdc~rK~/s-l225.jpg"></a></td><td><div><span><strong>$8.99</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 18:12</span></div><a href="https://www.ebay.com/itm/The-Beatles-Please-Please-Me-Parlophone-Vinyl-LP-SEALED/264357259617?hash=item3d8ceba961:g:N6gAAOSwgjdc~rK~">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=264357259617&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Please-Please-Me-Parlophone-Vinyl-LP-SEALED/264357259617?hash=item3d8ceba961:g:N6gAAOSwgjdc~rK~]]></guid>
+<pubDate>Mon, 10 Jun 2019 18:12:42 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">899</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560820362000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[BEATLES “The Beatles & Murray The ‘K’ As It Happened” 1964 Orig W/Picture Sleeve]]></title>
+<link><![CDATA[https://www.ebay.com/itm/BEATLES-The-Beatles-Murray-The-K-As-It-Happened-1964-Orig-W-Picture-Sleeve/264355543533?hash=item3d8cd179ed:g:2-kAAOSwkItc~ROO]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/BEATLES-The-Beatles-Murray-The-K-As-It-Happened-1964-Orig-W-Picture-Sleeve/264355543533?hash=item3d8cd179ed:g:2-kAAOSwkItc~ROO"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/2-kAAOSwkItc~ROO/s-l225.jpg"></a></td><td><div><span><strong>$19.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-16 11:00</span></div><div>Buy It Now for only: US $39.00</div><a href="https://www.ebay.com/itm/BEATLES-The-Beatles-Murray-The-K-As-It-Happened-1964-Orig-W-Picture-Sleeve/264355543533?hash=item3d8cd179ed:g:2-kAAOSwkItc~ROO">Bid now</a><span>  |  </span><a href="https://www.ebay.com/itm/BEATLES-The-Beatles-Murray-The-K-As-It-Happened-1964-Orig-W-Picture-Sleeve/264355543533?hash=item3d8cd179ed:g:2-kAAOSwkItc~ROO">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=264355543533&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/BEATLES-The-Beatles-Murray-The-K-As-It-Happened-1964-Orig-W-Picture-Sleeve/264355543533?hash=item3d8cd179ed:g:2-kAAOSwkItc~ROO]]></guid>
+<pubDate>Sun, 09 Jun 2019 11:00:05 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">3900</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1900</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560708005000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles John Lennon Apple lp record SHAVED FISH, 1975]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-John-Lennon-Apple-lp-record-SHAVED-FISH-1975/223547325960?hash=item340c757e08:g:3I4AAOSwgYpc~moM]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-John-Lennon-Apple-lp-record-SHAVED-FISH-1975/223547325960?hash=item340c757e08:g:3I4AAOSwgYpc~moM"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/3I4AAOSwgYpc~moM/s-l225.jpg"></a></td><td><div><span><strong>$0.01</strong></span> (1 Bids)</div><div>End Date: <span>Jun-20 07:35</span></div><a href="https://www.ebay.com/itm/The-Beatles-John-Lennon-Apple-lp-record-SHAVED-FISH-1975/223547325960?hash=item340c757e08:g:3I4AAOSwgYpc~moM">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223547325960&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-John-Lennon-Apple-lp-record-SHAVED-FISH-1975/223547325960?hash=item340c757e08:g:3I4AAOSwgYpc~moM]]></guid>
+<pubDate>Mon, 10 Jun 2019 07:35:23 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561041323000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES - "1967-1970" / BLUE VINYL DBL LP! / CAPITOL '73]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-1967-1970-BLUE-VINYL-DBL-LP-CAPITOL-73/163717266057?hash=item261e4f3a89:g:JUYAAOSwq7lc8bYL]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-1967-1970-BLUE-VINYL-DBL-LP-CAPITOL-73/163717266057?hash=item261e4f3a89:g:JUYAAOSwq7lc8bYL"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/JUYAAOSwq7lc8bYL/s-l225.jpg"></a></td><td><div><span><strong>$11.00</strong></span> (4 Bids)</div><div>End Date: <span>Jun-12 15:06</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-1967-1970-BLUE-VINYL-DBL-LP-CAPITOL-73/163717266057?hash=item261e4f3a89:g:JUYAAOSwq7lc8bYL">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=163717266057&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-1967-1970-BLUE-VINYL-DBL-LP-CAPITOL-73/163717266057?hash=item261e4f3a89:g:JUYAAOSwq7lc8bYL]]></guid>
+<pubDate>Sun, 02 Jun 2019 15:06:20 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1100</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560377180000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles lp record in Shrink LET IT BE Capitol 1983 rainbow label, Poster]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-lp-record-in-Shrink-LET-IT-BE-Capitol-1983-rainbow-label-Poster/323829239492?hash=item4b65ba0ec4:g:JeIAAOSwgY5c-~4d]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-lp-record-in-Shrink-LET-IT-BE-Capitol-1983-rainbow-label-Poster/323829239492?hash=item4b65ba0ec4:g:JeIAAOSwgY5c-~4d"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/JeIAAOSwgY5c-~4d/s-l225.jpg"></a></td><td><div><span><strong>$14.40</strong></span> (7 Bids)</div><div>End Date: <span>Jun-15 11:40</span></div><a href="https://www.ebay.com/itm/The-Beatles-lp-record-in-Shrink-LET-IT-BE-Capitol-1983-rainbow-label-Poster/323829239492?hash=item4b65ba0ec4:g:JeIAAOSwgY5c-~4d">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323829239492&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-lp-record-in-Shrink-LET-IT-BE-Capitol-1983-rainbow-label-Poster/323829239492?hash=item4b65ba0ec4:g:JeIAAOSwgY5c-~4d]]></guid>
+<pubDate>Sat, 08 Jun 2019 11:40:18 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1440</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560624018000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">7</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[BEATLES-INTRODUCING THE ON VEE JAY LP-STRONG VG+]]></title>
+<link><![CDATA[https://www.ebay.com/itm/BEATLES-INTRODUCING-THE-ON-VEE-JAY-LP-STRONG-VG/382991831681?hash=item592c179281:g:cTMAAOSwSQRc-Rur]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/BEATLES-INTRODUCING-THE-ON-VEE-JAY-LP-STRONG-VG/382991831681?hash=item592c179281:g:cTMAAOSwSQRc-Rur"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/cTMAAOSwSQRc-Rur/s-l225.jpg"></a></td><td><div><span><strong>$36.00</strong></span> (13 Bids)</div><div>End Date: <span>Jun-16 07:57</span></div><a href="https://www.ebay.com/itm/BEATLES-INTRODUCING-THE-ON-VEE-JAY-LP-STRONG-VG/382991831681?hash=item592c179281:g:cTMAAOSwSQRc-Rur">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=382991831681&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/BEATLES-INTRODUCING-THE-ON-VEE-JAY-LP-STRONG-VG/382991831681?hash=item592c179281:g:cTMAAOSwSQRc-Rur]]></guid>
+<pubDate>Thu, 06 Jun 2019 07:57:49 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">3600</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560697069000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">13</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Apple lp record HEY JUDE, 1970 in Shrink The Beatles Again]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Apple-lp-record-HEY-JUDE-1970-in-Shrink-The-Beatles-Again/323829231181?hash=item4b65b9ee4d:g:d9EAAOSw8Vxc-~yq]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Apple-lp-record-HEY-JUDE-1970-in-Shrink-The-Beatles-Again/323829231181?hash=item4b65b9ee4d:g:d9EAAOSw8Vxc-~yq"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/d9EAAOSw8Vxc-~yq/s-l225.jpg"></a></td><td><div><span><strong>$12.50</strong></span> (9 Bids)</div><div>End Date: <span>Jun-15 11:24</span></div><a href="https://www.ebay.com/itm/The-Beatles-Apple-lp-record-HEY-JUDE-1970-in-Shrink-The-Beatles-Again/323829231181?hash=item4b65b9ee4d:g:d9EAAOSw8Vxc-~yq">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323829231181&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Apple-lp-record-HEY-JUDE-1970-in-Shrink-The-Beatles-Again/323829231181?hash=item4b65b9ee4d:g:d9EAAOSw8Vxc-~yq]]></guid>
+<pubDate>Sat, 08 Jun 2019 11:24:34 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1250</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560623074000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">9</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The BEATLES Fan Club Christmas Album 1970 LP Apple SBC-100 RARE]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-BEATLES-Fan-Club-Christmas-Album-1970-LP-Apple-SBC-100-RARE/333225195158?hash=item4d95c4f696:g:FgYAAOSwm5Fc9-L5]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-BEATLES-Fan-Club-Christmas-Album-1970-LP-Apple-SBC-100-RARE/333225195158?hash=item4d95c4f696:g:FgYAAOSwm5Fc9-L5"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/FgYAAOSwm5Fc9-L5/s-l225.jpg"></a></td><td><div><span><strong>$21.00</strong></span> (23 Bids)</div><div>End Date: <span>Jun-14 04:31</span></div><a href="https://www.ebay.com/itm/The-BEATLES-Fan-Club-Christmas-Album-1970-LP-Apple-SBC-100-RARE/333225195158?hash=item4d95c4f696:g:FgYAAOSwm5Fc9-L5">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=333225195158&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-BEATLES-Fan-Club-Christmas-Album-1970-LP-Apple-SBC-100-RARE/333225195158?hash=item4d95c4f696:g:FgYAAOSwm5Fc9-L5]]></guid>
+<pubDate>Fri, 07 Jun 2019 04:31:01 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2100</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560511861000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">23</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Beatles - The Beatles' Story 2xLP - Capitol]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Beatles-The-Beatles-Story-2xLP-Capitol/312646828821?hash=item48cb340315:g:t~AAAOSw6Htc-y-y]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Beatles-The-Beatles-Story-2xLP-Capitol/312646828821?hash=item48cb340315:g:t~AAAOSw6Htc-y-y"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/t~AAAOSw6Htc-y-y/s-l225.jpg"></a></td><td><div><span><strong>$6.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-16 08:42</span></div><a href="https://www.ebay.com/itm/Beatles-The-Beatles-Story-2xLP-Capitol/312646828821?hash=item48cb340315:g:t~AAAOSw6Htc-y-y">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=312646828821&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Beatles-The-Beatles-Story-2xLP-Capitol/312646828821?hash=item48cb340315:g:t~AAAOSw6Htc-y-y]]></guid>
+<pubDate>Sun, 09 Jun 2019 08:42:57 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">600</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560699777000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The BEATLES - Abbey Road Nr MINT Apple SO-383 psych edelic '69 FIRST PRESSING lp]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-BEATLES-Abbey-Road-Nr-MINT-Apple-SO-383-psych-edelic-69-FIRST-PRESSING-lp/312649089458?hash=item48cb5681b2:g:IckAAOSwPkRc~RM6]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-BEATLES-Abbey-Road-Nr-MINT-Apple-SO-383-psych-edelic-69-FIRST-PRESSING-lp/312649089458?hash=item48cb5681b2:g:IckAAOSwPkRc~RM6"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/IckAAOSwPkRc~RM6/s-l225.jpg"></a></td><td><div><span><strong>$5.99</strong></span> (0 Bids)</div><div>End Date: <span>Jun-16 07:12</span></div><a href="https://www.ebay.com/itm/The-BEATLES-Abbey-Road-Nr-MINT-Apple-SO-383-psych-edelic-69-FIRST-PRESSING-lp/312649089458?hash=item48cb5681b2:g:IckAAOSwPkRc~RM6">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=312649089458&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-BEATLES-Abbey-Road-Nr-MINT-Apple-SO-383-psych-edelic-69-FIRST-PRESSING-lp/312649089458?hash=item48cb5681b2:g:IckAAOSwPkRc~RM6]]></guid>
+<pubDate>Sun, 09 Jun 2019 07:12:56 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">599</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560694376000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles - White Album.  Capitol SWBO-101 Rainbow Labels.]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-White-Album-Capitol-SWBO-101-Rainbow-Labels/254260202073?hash=item3b3316ca59:g:vJIAAOSwul9c~uv1]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-White-Album-Capitol-SWBO-101-Rainbow-Labels/254260202073?hash=item3b3316ca59:g:vJIAAOSwul9c~uv1"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/vJIAAOSwul9c~uv1/s-l225.jpg"></a></td><td><div><span><strong>$5.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-15 16:47</span></div><a href="https://www.ebay.com/itm/The-Beatles-White-Album-Capitol-SWBO-101-Rainbow-Labels/254260202073?hash=item3b3316ca59:g:vJIAAOSwul9c~uv1">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=254260202073&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-White-Album-Capitol-SWBO-101-Rainbow-Labels/254260202073?hash=item3b3316ca59:g:vJIAAOSwul9c~uv1]]></guid>
+<pubDate>Mon, 10 Jun 2019 16:47:50 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">500</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560642470000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES SECOND ALBUM LP GERMANY IMPORT ODEON STEREO ZTOX5558 WHITE LABEL VG]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-LP-GERMANY-IMPORT-ODEON-STEREO-ZTOX5558-WHITE-LABEL-VG/372687592082?hash=item56c5e95a92:g:Jj4AAOSw38Jc~sRm]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-LP-GERMANY-IMPORT-ODEON-STEREO-ZTOX5558-WHITE-LABEL-VG/372687592082?hash=item56c5e95a92:g:Jj4AAOSw38Jc~sRm"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/Jj4AAOSw38Jc~sRm/s-l225.jpg"></a></td><td><div><span><strong>$20.00</strong></span> (3 Bids)</div><div>End Date: <span>Jun-17 15:05</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-LP-GERMANY-IMPORT-ODEON-STEREO-ZTOX5558-WHITE-LABEL-VG/372687592082?hash=item56c5e95a92:g:Jj4AAOSw38Jc~sRm">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=372687592082&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-SECOND-ALBUM-LP-GERMANY-IMPORT-ODEON-STEREO-ZTOX5558-WHITE-LABEL-VG/372687592082?hash=item56c5e95a92:g:Jj4AAOSw38Jc~sRm]]></guid>
+<pubDate>Mon, 10 Jun 2019 15:05:02 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2000</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560809102000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">3</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles - Rubber Soul [New Vinyl]]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Rubber-Soul-New-Vinyl/141904790257?hash=item210a2f42f1:g:brQAAOSwpP9Y7DIR]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Rubber-Soul-New-Vinyl/141904790257?hash=item210a2f42f1:g:brQAAOSwpP9Y7DIR"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/brQAAOSwpP9Y7DIR/s-l225.jpg"></a></td><td><div><span><strong>$19.94</strong></span></div><div>End Date: <span>Jun-29 14:43</span></div><div>Buy It Now for only: US $19.94</div><a href="https://www.ebay.com/itm/The-Beatles-Rubber-Soul-New-Vinyl/141904790257?hash=item210a2f42f1:g:brQAAOSwpP9Y7DIR">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=141904790257&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Rubber-Soul-New-Vinyl/141904790257?hash=item210a2f42f1:g:brQAAOSwpP9Y7DIR]]></guid>
+<pubDate>Mon, 15 Feb 2016 14:43:02 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1994</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1994</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561844582000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES 14 LP Lot Meet/VI/Rubber Soul/Help/White/Abbey/Hard Days/65/Magical]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-14-LP-Lot-Meet-VI-Rubber-Soul-Help-White-Abbey-Hard-Days-65-Magical/173928390645?hash=item287ef09ff5:g:zpEAAOSwPblc~YtR]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-14-LP-Lot-Meet-VI-Rubber-Soul-Help-White-Abbey-Hard-Days-65-Magical/173928390645?hash=item287ef09ff5:g:zpEAAOSwPblc~YtR"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/zpEAAOSwPblc~YtR/s-l225.jpg"></a></td><td><div><span><strong>$49.99</strong></span> (1 Bids)</div><div>End Date: <span>Jun-16 16:08</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-14-LP-Lot-Meet-VI-Rubber-Soul-Help-White-Abbey-Hard-Days-65-Magical/173928390645?hash=item287ef09ff5:g:zpEAAOSwPblc~YtR">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=173928390645&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-14-LP-Lot-Meet-VI-Rubber-Soul-Help-White-Abbey-Hard-Days-65-Magical/173928390645?hash=item287ef09ff5:g:zpEAAOSwPblc~YtR]]></guid>
+<pubDate>Sun, 09 Jun 2019 16:08:37 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4999</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560726517000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Rarities-Vinyl LP w/Uncropped Butcher Photo]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Rarities-Vinyl-LP-w-Uncropped-Butcher-Photo/264357517804?hash=item3d8cef99ec:g:h0YAAOSwIoNc~vUi]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Rarities-Vinyl-LP-w-Uncropped-Butcher-Photo/264357517804?hash=item3d8cef99ec:g:h0YAAOSwIoNc~vUi"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/h0YAAOSwIoNc~vUi/s-l225.jpg"></a></td><td><div><span><strong>$9.99</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 18:18</span></div><a href="https://www.ebay.com/itm/The-Beatles-Rarities-Vinyl-LP-w-Uncropped-Butcher-Photo/264357517804?hash=item3d8cef99ec:g:h0YAAOSwIoNc~vUi">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=264357517804&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Rarities-Vinyl-LP-w-Uncropped-Butcher-Photo/264357517804?hash=item3d8cef99ec:g:h0YAAOSwIoNc~vUi]]></guid>
+<pubDate>Mon, 10 Jun 2019 18:18:26 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">999</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560820706000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles-Four Solo Vinyl 45s w/Picture Sleeves;Lennon;McCartney;Starr]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Four-Solo-Vinyl-45s-w-Picture-Sleeves-Lennon-McCartney-Starr/143289751164?hash=item215cbc167c:g:LnwAAOSwhpRc~qjg]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Four-Solo-Vinyl-45s-w-Picture-Sleeves-Lennon-McCartney-Starr/143289751164?hash=item215cbc167c:g:LnwAAOSwhpRc~qjg"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/LnwAAOSwhpRc~qjg/s-l225.jpg"></a></td><td><div><span><strong>$9.99</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 18:00</span></div><a href="https://www.ebay.com/itm/The-Beatles-Four-Solo-Vinyl-45s-w-Picture-Sleeves-Lennon-McCartney-Starr/143289751164?hash=item215cbc167c:g:LnwAAOSwhpRc~qjg">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=143289751164&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Four-Solo-Vinyl-45s-w-Picture-Sleeves-Lennon-McCartney-Starr/143289751164?hash=item215cbc167c:g:LnwAAOSwhpRc~qjg]]></guid>
+<pubDate>Mon, 10 Jun 2019 18:00:43 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">999</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560819643000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Apple Records LP Abbey Road. Sealed 1/4 of opening. No Her Majesty.]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Apple-Records-LP-Abbey-Road-Sealed-1-4-of-opening-No-Her-Majesty/312651425689?hash=item48cb7a2799:g:-nkAAOSwvfFc~tHg]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Apple-Records-LP-Abbey-Road-Sealed-1-4-of-opening-No-Her-Majesty/312651425689?hash=item48cb7a2799:g:-nkAAOSwvfFc~tHg"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/-nkAAOSwvfFc~tHg/s-l225.jpg"></a></td><td><div><span><strong>$29.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 15:00</span></div><a href="https://www.ebay.com/itm/The-Beatles-Apple-Records-LP-Abbey-Road-Sealed-1-4-of-opening-No-Her-Majesty/312651425689?hash=item48cb7a2799:g:-nkAAOSwvfFc~tHg">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=312651425689&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Apple-Records-LP-Abbey-Road-Sealed-1-4-of-opening-No-Her-Majesty/312651425689?hash=item48cb7a2799:g:-nkAAOSwvfFc~tHg]]></guid>
+<pubDate>Mon, 10 Jun 2019 15:00:44 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2900</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560808844000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES REVOLVER  LP PICTURE DISC]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-REVOLVER-LP-PICTURE-DISC/223542086352?hash=item340c258ad0:g:to8AAOSwHptazkpT]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-REVOLVER-LP-PICTURE-DISC/223542086352?hash=item340c258ad0:g:to8AAOSwHptazkpT"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/to8AAOSwHptazkpT/s-l225.jpg"></a></td><td><div><span><strong>$17.00</strong></span> (9 Bids)</div><div>End Date: <span>Jun-12 12:20</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-REVOLVER-LP-PICTURE-DISC/223542086352?hash=item340c258ad0:g:to8AAOSwHptazkpT">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223542086352&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-REVOLVER-LP-PICTURE-DISC/223542086352?hash=item340c258ad0:g:to8AAOSwHptazkpT]]></guid>
+<pubDate>Wed, 05 Jun 2019 12:20:13 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1700</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560367213000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">9</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Paul McCartney Apple 45 record LIVE AND LET DIE label ERROR 1973]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Paul-McCartney-Apple-45-record-LIVE-AND-LET-DIE-label-ERROR-1973/323829349880?hash=item4b65bbbdf8:g:GK0AAOSw0VZc~C2H]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Paul-McCartney-Apple-45-record-LIVE-AND-LET-DIE-label-ERROR-1973/323829349880?hash=item4b65bbbdf8:g:GK0AAOSw0VZc~C2H"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/GK0AAOSw0VZc~C2H/s-l225.jpg"></a></td><td><div><span><strong>$9.98</strong></span> (4 Bids)</div><div>End Date: <span>Jun-15 14:54</span></div><a href="https://www.ebay.com/itm/The-Beatles-Paul-McCartney-Apple-45-record-LIVE-AND-LET-DIE-label-ERROR-1973/323829349880?hash=item4b65bbbdf8:g:GK0AAOSw0VZc~C2H">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323829349880&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Paul-McCartney-Apple-45-record-LIVE-AND-LET-DIE-label-ERROR-1973/323829349880?hash=item4b65bbbdf8:g:GK0AAOSw0VZc~C2H]]></guid>
+<pubDate>Sat, 08 Jun 2019 14:54:47 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">998</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560635687000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES PENNY LANE 45 RPM ROCK SINGLE PINK VINYL RECORD JUKEBOX SERIES EXCEL]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-PENNY-LANE-45-RPM-ROCK-SINGLE-PINK-VINYL-RECORD-JUKEBOX-SERIES-EXCEL/233254959599?hash=item364f1439ef:g:3OIAAOSwjgZdAC28]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-PENNY-LANE-45-RPM-ROCK-SINGLE-PINK-VINYL-RECORD-JUKEBOX-SERIES-EXCEL/233254959599?hash=item364f1439ef:g:3OIAAOSwjgZdAC28"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/3OIAAOSwjgZdAC28/s-l225.jpg"></a></td><td><div><span><strong>$3.99</strong></span> (0 Bids)</div><div>End Date: <span>Jun-21 15:42</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-PENNY-LANE-45-RPM-ROCK-SINGLE-PINK-VINYL-RECORD-JUKEBOX-SERIES-EXCEL/233254959599?hash=item364f1439ef:g:3OIAAOSwjgZdAC28">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=233254959599&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-PENNY-LANE-45-RPM-ROCK-SINGLE-PINK-VINYL-RECORD-JUKEBOX-SERIES-EXCEL/233254959599?hash=item364f1439ef:g:3OIAAOSwjgZdAC28]]></guid>
+<pubDate>Tue, 11 Jun 2019 15:42:02 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">399</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561156922000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Ringo Starr Apple Test Press promo 45 record NO NO SONG, 1975]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Ringo-Starr-Apple-Test-Press-promo-45-record-NO-NO-SONG-1975/223547534634?hash=item340c78ad2a:g:ExAAAOSwKzVc~qYV]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Ringo-Starr-Apple-Test-Press-promo-45-record-NO-NO-SONG-1975/223547534634?hash=item340c78ad2a:g:ExAAAOSwKzVc~qYV"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/ExAAAOSwKzVc~qYV/s-l225.jpg"></a></td><td><div><span><strong>$7.50</strong></span> (5 Bids)</div><div>End Date: <span>Jun-17 11:57</span></div><a href="https://www.ebay.com/itm/The-Beatles-Ringo-Starr-Apple-Test-Press-promo-45-record-NO-NO-SONG-1975/223547534634?hash=item340c78ad2a:g:ExAAAOSwKzVc~qYV">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223547534634&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Ringo-Starr-Apple-Test-Press-promo-45-record-NO-NO-SONG-1975/223547534634?hash=item340c78ad2a:g:ExAAAOSwKzVc~qYV]]></guid>
+<pubDate>Mon, 10 Jun 2019 11:57:11 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">750</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560797831000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">5</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Introducing The Beatles, With Rare Hype Sticker Cover Vg+/ Ex Nice CoverLp Vg+]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Introducing-The-Beatles-With-Rare-Hype-Sticker-Cover-Vg-Ex-Nice-CoverLp-Vg/352689755887?hash=item521df296ef:g:6NQAAOSwBDhc-iXB]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Introducing-The-Beatles-With-Rare-Hype-Sticker-Cover-Vg-Ex-Nice-CoverLp-Vg/352689755887?hash=item521df296ef:g:6NQAAOSwBDhc-iXB"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/6NQAAOSwBDhc-iXB/s-l225.jpg"></a></td><td><div><span><strong>$299.00</strong></span></div><div>End Date: <span>Jul-11 15:25</span></div><div>Buy It Now for only: US $299.00</div><a href="https://www.ebay.com/itm/Introducing-The-Beatles-With-Rare-Hype-Sticker-Cover-Vg-Ex-Nice-CoverLp-Vg/352689755887?hash=item521df296ef:g:6NQAAOSwBDhc-iXB">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=352689755887&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Introducing-The-Beatles-With-Rare-Hype-Sticker-Cover-Vg-Ex-Nice-CoverLp-Vg/352689755887?hash=item521df296ef:g:6NQAAOSwBDhc-iXB]]></guid>
+<pubDate>Tue, 11 Jun 2019 15:26:57 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">29900</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">29900</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562883958000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Modern Jazz Quartet Apple lp UNDER THE JASMINE TREE record club 1969]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Modern-Jazz-Quartet-Apple-lp-UNDER-THE-JASMINE-TREE-record-club-1969/323831121321?hash=item4b65d6c5a9:g:ad4AAOSwPNBc~sP0]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Modern-Jazz-Quartet-Apple-lp-UNDER-THE-JASMINE-TREE-record-club-1969/323831121321?hash=item4b65d6c5a9:g:ad4AAOSwPNBc~sP0"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/ad4AAOSwPNBc~sP0/s-l225.jpg"></a></td><td><div><span><strong>$3.58</strong></span> (3 Bids)</div><div>End Date: <span>Jun-17 14:07</span></div><a href="https://www.ebay.com/itm/The-Beatles-Modern-Jazz-Quartet-Apple-lp-UNDER-THE-JASMINE-TREE-record-club-1969/323831121321?hash=item4b65d6c5a9:g:ad4AAOSwPNBc~sP0">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323831121321&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Modern-Jazz-Quartet-Apple-lp-UNDER-THE-JASMINE-TREE-record-club-1969/323831121321?hash=item4b65d6c5a9:g:ad4AAOSwPNBc~sP0]]></guid>
+<pubDate>Mon, 10 Jun 2019 14:07:24 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">358</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560805644000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">3</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[LP-Record-Album-The Beatles Sgt. Pepper Lonely Hearts  w/ rare Cut-outs sheet.]]></title>
+<link><![CDATA[https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Sgt-Pepper-Lonely-Hearts-w-rare-Cut-outs-sheet/183843068949?hash=item2acde69c15:g:zyQAAOSwMOBc~pvV]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Sgt-Pepper-Lonely-Hearts-w-rare-Cut-outs-sheet/183843068949?hash=item2acde69c15:g:zyQAAOSwMOBc~pvV"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/zyQAAOSwMOBc~pvV/s-l225.jpg"></a></td><td><div><span><strong>$7.50</strong></span> (0 Bids)</div><div>End Date: <span>Jun-17 11:07</span></div><a href="https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Sgt-Pepper-Lonely-Hearts-w-rare-Cut-outs-sheet/183843068949?hash=item2acde69c15:g:zyQAAOSwMOBc~pvV">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=183843068949&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/LP-Record-Album-The-Beatles-Sgt-Pepper-Lonely-Hearts-w-rare-Cut-outs-sheet/183843068949?hash=item2acde69c15:g:zyQAAOSwMOBc~pvV]]></guid>
+<pubDate>Mon, 10 Jun 2019 11:07:59 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">750</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560794879000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles 45 Picture Sleeve Record Lot Do You Want To Know A Secret VEE JAY]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-45-Picture-Sleeve-Record-Lot-Do-You-Want-To-Know-A-Secret-VEE-JAY/293111708306?hash=item443ed1ba92:g:SGQAAOSw-ERc9rl6]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-45-Picture-Sleeve-Record-Lot-Do-You-Want-To-Know-A-Secret-VEE-JAY/293111708306?hash=item443ed1ba92:g:SGQAAOSw-ERc9rl6"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/SGQAAOSw-ERc9rl6/s-l225.jpg"></a></td><td><div><span><strong>$20.50</strong></span> (6 Bids)</div><div>End Date: <span>Jun-14 11:42</span></div><a href="https://www.ebay.com/itm/The-Beatles-45-Picture-Sleeve-Record-Lot-Do-You-Want-To-Know-A-Secret-VEE-JAY/293111708306?hash=item443ed1ba92:g:SGQAAOSw-ERc9rl6">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=293111708306&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-45-Picture-Sleeve-Record-Lot-Do-You-Want-To-Know-A-Secret-VEE-JAY/293111708306?hash=item443ed1ba92:g:SGQAAOSw-ERc9rl6]]></guid>
+<pubDate>Tue, 04 Jun 2019 11:42:05 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2050</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560537725000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">6</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles 1967-1970 1973 Vinyl LP Apple Records SKBO 3404]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-1967-1970-1973-Vinyl-LP-Apple-Records-SKBO-3404/273885510770?hash=item3fc4d93c72:g:3D0AAOSw8~NcQOPl]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-1967-1970-1973-Vinyl-LP-Apple-Records-SKBO-3404/273885510770?hash=item3fc4d93c72:g:3D0AAOSw8~NcQOPl"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/3D0AAOSw8~NcQOPl/s-l225.jpg"></a></td><td><div><span><strong>$45.00</strong></span></div><div>End Date: <span>Jul-11 16:04</span></div><div>Buy It Now for only: US $45.00</div><a href="https://www.ebay.com/itm/The-Beatles-1967-1970-1973-Vinyl-LP-Apple-Records-SKBO-3404/273885510770?hash=item3fc4d93c72:g:3D0AAOSw8~NcQOPl">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=273885510770&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-1967-1970-1973-Vinyl-LP-Apple-Records-SKBO-3404/273885510770?hash=item3fc4d93c72:g:3D0AAOSw8~NcQOPl]]></guid>
+<pubDate>Tue, 11 Jun 2019 16:04:44 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4500</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4500</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562886284000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES "1967-1970" LIMITED EDITION BLUE VINYL 2LP - SEBX-11843 - NM EX]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-1967-1970-LIMITED-EDITION-BLUE-VINYL-2LP-SEBX-11843-NM-EX/233247741126?hash=item364ea614c6:g:2psAAOSwFW9c9wJy]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-1967-1970-LIMITED-EDITION-BLUE-VINYL-2LP-SEBX-11843-NM-EX/233247741126?hash=item364ea614c6:g:2psAAOSwFW9c9wJy"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/2psAAOSwFW9c9wJy/s-l225.jpg"></a></td><td><div><span><strong>$49.96</strong></span> (0 Bids)</div><div>End Date: <span>Jun-11 16:45</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-1967-1970-LIMITED-EDITION-BLUE-VINYL-2LP-SEBX-11843-NM-EX/233247741126?hash=item364ea614c6:g:2psAAOSwFW9c9wJy">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=233247741126&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-1967-1970-LIMITED-EDITION-BLUE-VINYL-2LP-SEBX-11843-NM-EX/233247741126?hash=item364ea614c6:g:2psAAOSwFW9c9wJy]]></guid>
+<pubDate>Tue, 04 Jun 2019 16:45:46 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">4996</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560296746000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Revolver - The Beatles (Vinyl LP 1976 Orange Capitol Reissue)]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Revolver-The-Beatles-Vinyl-LP-1976-Orange-Capitol-Reissue/283512751961?hash=item4202ad4759:g:SCQAAOSwfDtc~vP-]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Revolver-The-Beatles-Vinyl-LP-1976-Orange-Capitol-Reissue/283512751961?hash=item4202ad4759:g:SCQAAOSwfDtc~vP-"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/SCQAAOSwfDtc~vP-/s-l225.jpg"></a></td><td><div><span><strong>$4.00</strong></span> (1 Bids)</div><div>End Date: <span>Jun-17 17:40</span></div><a href="https://www.ebay.com/itm/Revolver-The-Beatles-Vinyl-LP-1976-Orange-Capitol-Reissue/283512751961?hash=item4202ad4759:g:SCQAAOSwfDtc~vP-">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=283512751961&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Revolver-The-Beatles-Vinyl-LP-1976-Orange-Capitol-Reissue/283512751961?hash=item4202ad4759:g:SCQAAOSwfDtc~vP-]]></guid>
+<pubDate>Mon, 10 Jun 2019 17:40:39 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">400</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560818439000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles ‎– Hey Jude, Reissue LP UNPLAYED NM 1973]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Hey-Jude-Reissue-LP-UNPLAYED-NM-1973/273875145951?hash=item3fc43b14df:g:1AoAAOSwpoVc9evQ]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Hey-Jude-Reissue-LP-UNPLAYED-NM-1973/273875145951?hash=item3fc43b14df:g:1AoAAOSwpoVc9evQ"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/1AoAAOSwpoVc9evQ/s-l225.jpg"></a></td><td><div><span><strong>$11.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-15 18:00</span></div><a href="https://www.ebay.com/itm/The-Beatles-Hey-Jude-Reissue-LP-UNPLAYED-NM-1973/273875145951?hash=item3fc43b14df:g:1AoAAOSwpoVc9evQ">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=273875145951&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Hey-Jude-Reissue-LP-UNPLAYED-NM-1973/273875145951?hash=item3fc43b14df:g:1AoAAOSwpoVc9evQ]]></guid>
+<pubDate>Wed, 05 Jun 2019 18:00:29 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1100</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560646829000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Rock ‘N Roll Music Vinyl CD Record and]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Rock-N-Roll-Music-Vinyl-CD-Record-and/223545513493?hash=item340c59d615:g:~V4AAOSwFnxbmsdQ]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Rock-N-Roll-Music-Vinyl-CD-Record-and/223545513493?hash=item340c59d615:g:~V4AAOSwFnxbmsdQ"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/~V4AAOSwFnxbmsdQ/s-l225.jpg"></a></td><td><div><span><strong>$9.99</strong></span></div><div>End Date: <span>Jul-08 15:48</span></div><div>Buy It Now for only: US $9.99</div><a href="https://www.ebay.com/itm/The-Beatles-Rock-N-Roll-Music-Vinyl-CD-Record-and/223545513493?hash=item340c59d615:g:~V4AAOSwFnxbmsdQ">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=223545513493&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Rock-N-Roll-Music-Vinyl-CD-Record-and/223545513493?hash=item340c59d615:g:~V4AAOSwFnxbmsdQ]]></guid>
+<pubDate>Sat, 08 Jun 2019 15:48:26 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">999</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">999</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562626106000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Beatles Capitol 5651 Paperback Writer/Rain with Picture Sleeve]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Beatles-Capitol-5651-Paperback-Writer-Rain-with-Picture-Sleeve/123793692881?hash=item1cd2add8d1:g:XqsAAOSweWpc9Y-F]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Beatles-Capitol-5651-Paperback-Writer-Rain-with-Picture-Sleeve/123793692881?hash=item1cd2add8d1:g:XqsAAOSweWpc9Y-F"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/XqsAAOSweWpc9Y-F/s-l225.jpg"></a></td><td><div><span><strong>$5.00</strong></span> (1 Bids)</div><div>End Date: <span>Jun-12 16:54</span></div><a href="https://www.ebay.com/itm/Beatles-Capitol-5651-Paperback-Writer-Rain-with-Picture-Sleeve/123793692881?hash=item1cd2add8d1:g:XqsAAOSweWpc9Y-F">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=123793692881&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Beatles-Capitol-5651-Paperback-Writer-Rain-with-Picture-Sleeve/123793692881?hash=item1cd2add8d1:g:XqsAAOSweWpc9Y-F]]></guid>
+<pubDate>Wed, 05 Jun 2019 16:54:21 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">500</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560383661000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[VINTAGE LP VINYL ALBUM THE BEATLES WHITE ALBUM (2) RECORD SET]]></title>
+<link><![CDATA[https://www.ebay.com/itm/VINTAGE-LP-VINYL-ALBUM-THE-BEATLES-WHITE-ALBUM-2-RECORD-SET/323830353246?hash=item4b65cb0d5e:g:DS4AAOSwY~Nc~aWJ]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/VINTAGE-LP-VINYL-ALBUM-THE-BEATLES-WHITE-ALBUM-2-RECORD-SET/323830353246?hash=item4b65cb0d5e:g:DS4AAOSwY~Nc~aWJ"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/DS4AAOSwY~Nc~aWJ/s-l225.jpg"></a></td><td><div><span><strong>$4.99</strong></span> (1 Bids)</div><div>End Date: <span>Jun-16 17:37</span></div><a href="https://www.ebay.com/itm/VINTAGE-LP-VINYL-ALBUM-THE-BEATLES-WHITE-ALBUM-2-RECORD-SET/323830353246?hash=item4b65cb0d5e:g:DS4AAOSwY~Nc~aWJ">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323830353246&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/VINTAGE-LP-VINYL-ALBUM-THE-BEATLES-WHITE-ALBUM-2-RECORD-SET/323830353246?hash=item4b65cb0d5e:g:DS4AAOSwY~Nc~aWJ]]></guid>
+<pubDate>Sun, 09 Jun 2019 17:37:54 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">499</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560731874000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Badfinger Apple lp record STRAIGHT UP, 1971 in Shrink]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Badfinger-Apple-lp-record-STRAIGHT-UP-1971-in-Shrink/323829274372?hash=item4b65ba9704:g:IEMAAOSw7k9c~AxJ]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Badfinger-Apple-lp-record-STRAIGHT-UP-1971-in-Shrink/323829274372?hash=item4b65ba9704:g:IEMAAOSw7k9c~AxJ"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/IEMAAOSw7k9c~AxJ/s-l225.jpg"></a></td><td><div><span><strong>$11.01</strong></span> (7 Bids)</div><div>End Date: <span>Jun-15 12:33</span></div><a href="https://www.ebay.com/itm/The-Beatles-Badfinger-Apple-lp-record-STRAIGHT-UP-1971-in-Shrink/323829274372?hash=item4b65ba9704:g:IEMAAOSw7k9c~AxJ">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=323829274372&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Badfinger-Apple-lp-record-STRAIGHT-UP-1971-in-Shrink/323829274372?hash=item4b65ba9704:g:IEMAAOSw7k9c~AxJ]]></guid>
+<pubDate>Sat, 08 Jun 2019 12:33:29 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1101</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560627209000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">7</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles Hey Jude LP 1980s Pressing On Rainbow Colorband Label]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Hey-Jude-LP-1980s-Pressing-On-Rainbow-Colorband-Label/143288617931?hash=item215caacbcb:g:3jUAAOSwPHJc~YMF]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Hey-Jude-LP-1980s-Pressing-On-Rainbow-Colorband-Label/143288617931?hash=item215caacbcb:g:3jUAAOSwPHJc~YMF"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/3jUAAOSwPHJc~YMF/s-l225.jpg"></a></td><td><div><span><strong>$5.00</strong></span> (0 Bids)</div><div>End Date: <span>Jun-16 15:22</span></div><div>Buy It Now for only: US $10.00</div><a href="https://www.ebay.com/itm/The-Beatles-Hey-Jude-LP-1980s-Pressing-On-Rainbow-Colorband-Label/143288617931?hash=item215caacbcb:g:3jUAAOSwPHJc~YMF">Bid now</a><span>  |  </span><a href="https://www.ebay.com/itm/The-Beatles-Hey-Jude-LP-1980s-Pressing-On-Rainbow-Colorband-Label/143288617931?hash=item215caacbcb:g:3jUAAOSwPHJc~YMF">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=143288617931&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Hey-Jude-LP-1980s-Pressing-On-Rainbow-Colorband-Label/143288617931?hash=item215caacbcb:g:3jUAAOSwPHJc~YMF]]></guid>
+<pubDate>Sun, 09 Jun 2019 15:22:30 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1000</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">500</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560723750000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[THE BEATLES  Please, Please Me / From Me To You  VJ Promo 45 VJ-581]]></title>
+<link><![CDATA[https://www.ebay.com/itm/THE-BEATLES-Please-Please-Me-From-Me-To-You-VJ-Promo-45-VJ-581/312650611077?hash=item48cb6db985:g:dc8AAOSwfHpc~lLB]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/THE-BEATLES-Please-Please-Me-From-Me-To-You-VJ-Promo-45-VJ-581/312650611077?hash=item48cb6db985:g:dc8AAOSwfHpc~lLB"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/dc8AAOSwfHpc~lLB/s-l225.jpg"></a></td><td><div><span><strong>$27.02</strong></span> (7 Bids)</div><div>End Date: <span>Jun-15 05:58</span></div><a href="https://www.ebay.com/itm/THE-BEATLES-Please-Please-Me-From-Me-To-You-VJ-Promo-45-VJ-581/312650611077?hash=item48cb6db985:g:dc8AAOSwfHpc~lLB">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=312650611077&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/THE-BEATLES-Please-Please-Me-From-Me-To-You-VJ-Promo-45-VJ-581/312650611077?hash=item48cb6db985:g:dc8AAOSwfHpc~lLB]]></guid>
+<pubDate>Mon, 10 Jun 2019 05:58:11 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">2702</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560603491000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">7</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles -  A HARD DAYS NIGHT -  LP Factory Sealed !! C1-46437 Mono]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-A-HARD-DAYS-NIGHT-LP-Factory-Sealed-C1-46437-Mono/273885511406?hash=item3fc4d93eee:g:-IgAAOSwIFtc5a-H]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-A-HARD-DAYS-NIGHT-LP-Factory-Sealed-C1-46437-Mono/273885511406?hash=item3fc4d93eee:g:-IgAAOSwIFtc5a-H"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/-IgAAOSwIFtc5a-H/s-l225.jpg"></a></td><td><div><span><strong>$57.00</strong></span></div><div>End Date: <span>Jul-11 16:05</span></div><div>Buy It Now for only: US $57.00</div><a href="https://www.ebay.com/itm/The-Beatles-A-HARD-DAYS-NIGHT-LP-Factory-Sealed-C1-46437-Mono/273885511406?hash=item3fc4d93eee:g:-IgAAOSwIFtc5a-H">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=273885511406&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-A-HARD-DAYS-NIGHT-LP-Factory-Sealed-C1-46437-Mono/273885511406?hash=item3fc4d93eee:g:-IgAAOSwIFtc5a-H]]></guid>
+<pubDate>Tue, 11 Jun 2019 16:05:38 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">5700</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">5700</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562886338000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[7 LP [vinyl] LOT * BEATLES ORIG 2nd / ’65 / Rubber Soul / Abbey Rd / White Alb]]></title>
+<link><![CDATA[https://www.ebay.com/itm/7-LP-vinyl-LOT-BEATLES-ORIG-2nd-65-Rubber-Soul-Abbey-Rd-White-Alb/123793515401?hash=item1cd2ab2389:g:UcYAAOSw38Jc-BW9]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/7-LP-vinyl-LOT-BEATLES-ORIG-2nd-65-Rubber-Soul-Abbey-Rd-White-Alb/123793515401?hash=item1cd2ab2389:g:UcYAAOSw38Jc-BW9"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/UcYAAOSw38Jc-BW9/s-l225.jpg"></a></td><td><div><span><strong>$32.33</strong></span> (4 Bids)</div><div>End Date: <span>Jun-12 12:23</span></div><a href="https://www.ebay.com/itm/7-LP-vinyl-LOT-BEATLES-ORIG-2nd-65-Rubber-Soul-Abbey-Rd-White-Alb/123793515401?hash=item1cd2ab2389:g:UcYAAOSw38Jc-BW9">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=123793515401&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/7-LP-vinyl-LOT-BEATLES-ORIG-2nd-65-Rubber-Soul-Abbey-Rd-White-Alb/123793515401?hash=item1cd2ab2389:g:UcYAAOSw38Jc-BW9]]></guid>
+<pubDate>Wed, 05 Jun 2019 12:23:31 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">3233</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560367411000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">4</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[Beatles - Meet The Beatles! LP - Capitol]]></title>
+<link><![CDATA[https://www.ebay.com/itm/Beatles-Meet-The-Beatles-LP-Capitol/202701256597?hash=item2f31efb795:g:0zkAAOSwPHJc-zB5]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/Beatles-Meet-The-Beatles-LP-Capitol/202701256597?hash=item2f31efb795:g:0zkAAOSwPHJc-zB5"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/0zkAAOSwPHJc-zB5/s-l225.jpg"></a></td><td><div><span><strong>$6.00</strong></span> (1 Bids)</div><div>End Date: <span>Jun-16 08:37</span></div><a href="https://www.ebay.com/itm/Beatles-Meet-The-Beatles-LP-Capitol/202701256597?hash=item2f31efb795:g:0zkAAOSwPHJc-zB5">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=202701256597&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/Beatles-Meet-The-Beatles-LP-Capitol/202701256597?hash=item2f31efb795:g:0zkAAOSwPHJc-zB5]]></guid>
+<pubDate>Sun, 09 Jun 2019 08:37:59 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">600</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560699479000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles - Abbey Road [New Vinyl] 180 Gram, Rmst, Reissue]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-Abbey-Road-New-Vinyl-180-Gram-Rmst-Reissue/131725129597?hash=item1eab6df77d:g:4r0AAOSwTM5Y7CaG]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-Abbey-Road-New-Vinyl-180-Gram-Rmst-Reissue/131725129597?hash=item1eab6df77d:g:4r0AAOSwTM5Y7CaG"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/4r0AAOSwTM5Y7CaG/s-l225.jpg"></a></td><td><div><span><strong>$19.99</strong></span></div><div>End Date: <span>Jun-24 22:41</span></div><div>Buy It Now for only: US $19.99</div><a href="https://www.ebay.com/itm/The-Beatles-Abbey-Road-New-Vinyl-180-Gram-Rmst-Reissue/131725129597?hash=item1eab6df77d:g:4r0AAOSwTM5Y7CaG">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=131725129597&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-Abbey-Road-New-Vinyl-180-Gram-Rmst-Reissue/131725129597?hash=item1eab6df77d:g:4r0AAOSwTM5Y7CaG]]></guid>
+<pubDate>Wed, 10 Feb 2016 22:41:57 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1999</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">1999</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1561441317000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[FOUR BY THE BEATLES CAPITAL 2121 EP -PICTURE SLEEVE & 45 RECORD-(RARE)]]></title>
+<link><![CDATA[https://www.ebay.com/itm/FOUR-BY-THE-BEATLES-CAPITAL-2121-EP-PICTURE-SLEEVE-45-RECORD-RARE/392312455963?hash=item5b57a5031b:g:UfIAAOSwFsBc~~R9]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/FOUR-BY-THE-BEATLES-CAPITAL-2121-EP-PICTURE-SLEEVE-45-RECORD-RARE/392312455963?hash=item5b57a5031b:g:UfIAAOSwFsBc~~R9"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/UfIAAOSwFsBc~~R9/s-l225.jpg"></a></td><td><div><span><strong>$95.00</strong></span></div><div>End Date: <span>Jul-11 11:36</span></div><div>Buy It Now for only: US $95.00</div><a href="https://www.ebay.com/itm/FOUR-BY-THE-BEATLES-CAPITAL-2121-EP-PICTURE-SLEEVE-45-RECORD-RARE/392312455963?hash=item5b57a5031b:g:UfIAAOSwFsBc~~R9">Buy it now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=392312455963&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/FOUR-BY-THE-BEATLES-CAPITAL-2121-EP-PICTURE-SLEEVE-45-RECORD-RARE/392312455963?hash=item5b57a5031b:g:UfIAAOSwFsBc~~R9]]></guid>
+<pubDate>Tue, 11 Jun 2019 11:36:30 GMT-07:00</pubDate>
+<rx:BuyItNowPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">9500</rx:BuyItNowPrice>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">9500</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1562870190000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">0</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:ItemCharacteristic xmlns:rx="urn:ebay:apis:eBLBaseComponents">Best Offer</rx:ItemCharacteristic>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Buy it now</rx:AuctionType>
+</item>
+<item>
+<title><![CDATA[The Beatles-The 1964 & 1965 Ed Sullivan Shows-Vinyl LP]]></title>
+<link><![CDATA[https://www.ebay.com/itm/The-Beatles-The-1964-1965-Ed-Sullivan-Shows-Vinyl-LP/264354519165?hash=item3d8cc1d87d:g:N~AAAOSwgO9c-~G3]]></link>
+<description><![CDATA[<table border="0" cellpadding="8"><tr><td width="80px"><a href="https://www.ebay.com/itm/The-Beatles-The-1964-1965-Ed-Sullivan-Shows-Vinyl-LP/264354519165?hash=item3d8cc1d87d:g:N~AAAOSwgO9c-~G3"><img border="0" src="https://i.ebayimg.com/thumbs/images/g/N~AAAOSwgO9c-~G3/s-l225.jpg"></a></td><td><div><span><strong>$9.99</strong></span> (1 Bids)</div><div>End Date: <span>Jun-15 18:12</span></div><a href="https://www.ebay.com/itm/The-Beatles-The-1964-1965-Ed-Sullivan-Shows-Vinyl-LP/264354519165?hash=item3d8cc1d87d:g:N~AAAOSwgO9c-~G3">Bid now</a><span>  |  </span><a href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MfcISAPICommand=MakeTrack&item=264354519165&ssPageName=RSS:B:SHOP:US:104">Add to watch list</a></td></tr></table>]]></description>
+<guid isPermaLink="false"><![CDATA[https://www.ebay.com/itm/The-Beatles-The-1964-1965-Ed-Sullivan-Shows-Vinyl-LP/264354519165?hash=item3d8cc1d87d:g:N~AAAOSwgO9c-~G3]]></guid>
+<pubDate>Sat, 08 Jun 2019 18:12:47 GMT-07:00</pubDate>
+<rx:CurrentPrice xmlns:rx="urn:ebay:apis:eBLBaseComponents">999</rx:CurrentPrice>
+<rx:EndTime xmlns:rx="urn:ebay:apis:eBLBaseComponents">1560647567000</rx:EndTime>
+<rx:BidCount xmlns:rx="urn:ebay:apis:eBLBaseComponents">1</rx:BidCount>
+<rx:Category xmlns:rx="urn:ebay:apis:eBLBaseComponents"><![CDATA[Records]]></rx:Category>
+<rx:AuctionType xmlns:rx="urn:ebay:apis:eBLBaseComponents">Auction</rx:AuctionType>
+</item>
+</channel>
+</rss>
