@@ -28,7 +28,6 @@ EbayRss.prototype = {
     searchUrl += `?_nkw=${encodeURIComponent(keywords.toLowerCase())}`;
     searchUrl += `&_sacat=${categoryParameter}&_rss=1`;
 
-    console.log('TCL: search -> searchUrl', searchUrl);
     var parser = new Parser({
       customFields: {
         item: [

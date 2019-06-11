@@ -22,5 +22,8 @@
     "search"
   ],
   "author": "JeremyMCastillo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.7.1"
+  }
 }
