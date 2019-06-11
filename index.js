@@ -8,7 +8,7 @@ function EbayRss(options) {
   // Default pptions
   this.options = {
     baseSearchUrl: 'https://www.ebay.com/sch/i.html',
-    defaultCategory: '176985'
+    defaultCategory: 176985
   };
 
   // Override options passed in
@@ -26,7 +26,7 @@ EbayRss.prototype = {
 
     var searchUrl = this.options.baseSearchUrl;
     searchUrl += `?_nkw=${encodeURIComponent(keywords.toLowerCase())}`;
-    searchUrl += `&_sacat=${categoryParameter}&_rss=1`;
+    searchUrl += `&_sacat=${categoryParameter.toString()}&_rss=1`;
 
     var parser = new Parser({
       customFields: {
